@@ -27,3 +27,5 @@ autom4te.cache
 *~
 *.pyc
 *.swp
+*.o
+*.exe
