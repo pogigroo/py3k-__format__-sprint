@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86248/python/branches/py3k/Lib/distutils/command
+END
+build_clib.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/84608/python/branches/py3k/Lib/distutils/command/build_clib.py
+END
+wininst-9.0.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/69098/python/branches/py3k/Lib/distutils/command/wininst-9.0.exe
+END
+install_lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/75704/python/branches/py3k/Lib/distutils/command/install_lib.py
+END
+build.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/build.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/71500/python/branches/py3k/Lib/distutils/command/__init__.py
+END
+install_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/70898/python/branches/py3k/Lib/distutils/command/install_data.py
+END
+install_headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/70898/python/branches/py3k/Lib/distutils/command/install_headers.py
+END
+wininst-9.0-amd64.exe
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/69098/python/branches/py3k/Lib/distutils/command/wininst-9.0-amd64.exe
+END
+install_egg_info.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/56849/python/branches/py3k/Lib/distutils/command/install_egg_info.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/config.py
+END
+bdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/bdist.py
+END
+install.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/86248/python/branches/py3k/Lib/distutils/command/install.py
+END
+build_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/build_scripts.py
+END
+build_py.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/build_py.py
+END
+bdist_dumb.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/bdist_dumb.py
+END
+check.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/85197/python/branches/py3k/Lib/distutils/command/check.py
+END
+bdist_msi.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84363/python/branches/py3k/Lib/distutils/command/bdist_msi.py
+END
+install_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/57699/python/branches/py3k/Lib/distutils/command/install_scripts.py
+END
+build_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/85559/python/branches/py3k/Lib/distutils/command/build_ext.py
+END
+bdist_wininst.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/command/bdist_wininst.py
+END
+command_template
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/57699/python/branches/py3k/Lib/distutils/command/command_template
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/57699/python/branches/py3k/Lib/distutils/command/clean.py
+END
+bdist_rpm.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/86234/python/branches/py3k/Lib/distutils/command/bdist_rpm.py
+END
+register.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/command/register.py
+END
+upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/command/upload.py
+END
+wininst-6.0.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/64989/python/branches/py3k/Lib/distutils/command/wininst-6.0.exe
+END
+sdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/84711/python/branches/py3k/Lib/distutils/command/sdist.py
+END
+wininst-7.1.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/64989/python/branches/py3k/Lib/distutils/command/wininst-7.1.exe
+END
+wininst-8.0.exe
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/68819/python/branches/py3k/Lib/distutils/command/wininst-8.0.exe
+END

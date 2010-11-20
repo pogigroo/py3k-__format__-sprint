@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/src/arm
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/src/arm/ffitarget.h
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/src/arm/ffi.c
+END
+sysv.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/src/arm/sysv.S
+END

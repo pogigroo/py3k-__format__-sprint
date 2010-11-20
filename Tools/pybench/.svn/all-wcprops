@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/76515/python/branches/py3k/Tools/pybench
+END
+pybench.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/76515/python/branches/py3k/Tools/pybench/pybench.py
+END
+Strings.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/69411/python/branches/py3k/Tools/pybench/Strings.py
+END
+Arithmetic.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Arithmetic.py
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/LICENSE
+END
+Lookups.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Lookups.py
+END
+Imports.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Imports.py
+END
+Lists.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/67966/python/branches/py3k/Tools/pybench/Lists.py
+END
+Calls.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/69411/python/branches/py3k/Tools/pybench/Calls.py
+END
+Setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/61408/python/branches/py3k/Tools/pybench/Setup.py
+END
+NewInstances.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/NewInstances.py
+END
+clockres.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/63378/python/branches/py3k/Tools/pybench/clockres.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/74613/python/branches/py3k/Tools/pybench/README
+END
+Constructs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Constructs.py
+END
+Numbers.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Numbers.py
+END
+With.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/64258/python/branches/py3k/Tools/pybench/With.py
+END
+Tuples.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Tuples.py
+END
+systimes.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/69411/python/branches/py3k/Tools/pybench/systimes.py
+END
+Exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Exceptions.py
+END
+Dict.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Dict.py
+END
+CommandLine.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/69411/python/branches/py3k/Tools/pybench/CommandLine.py
+END
+Unicode.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Unicode.py
+END
+Instances.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Tools/pybench/Instances.py
+END

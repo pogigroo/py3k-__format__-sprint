@@ -1,0 +1,299 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/86168/python/branches/py3k/PC/VS8.0
+END
+idle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/idle.bat
+END
+_sqlite3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/_sqlite3.vcproj
+END
+build_tkinter.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/61003/python/branches/py3k/PC/VS8.0/build_tkinter.py
+END
+_msi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_msi.vcproj
+END
+pyproject.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/pyproject.vsprops
+END
+w9xpopen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/w9xpopen.vcproj
+END
+pyexpat.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/pyexpat.vcproj
+END
+pythoncore.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86168/python/branches/py3k/PC/VS8.0/pythoncore.vcproj
+END
+x64.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/64209/python/branches/py3k/PC/VS8.0/x64.vsprops
+END
+field3.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/field3.py
+END
+env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/env.bat
+END
+sqlite3.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/sqlite3.vsprops
+END
+make_versioninfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/make_versioninfo.vcproj
+END
+ssl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84993/python/branches/py3k/PC/VS8.0/ssl.vcproj
+END
+build_ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86165/python/branches/py3k/PC/VS8.0/build_ssl.py
+END
+_ctypes_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_ctypes_test.vcproj
+END
+pyd.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84763/python/branches/py3k/PC/VS8.0/pyd.vsprops
+END
+_ctypes.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/66169/python/branches/py3k/PC/VS8.0/_ctypes.vcproj
+END
+build_pgo.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/build_pgo.bat
+END
+make_buildinfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/86168/python/branches/py3k/PC/VS8.0/make_buildinfo.vcproj
+END
+_elementtree.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_elementtree.vcproj
+END
+pcbuild.sln
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84993/python/branches/py3k/PC/VS8.0/pcbuild.sln
+END
+_testcapi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_testcapi.vcproj
+END
+_tkinter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_tkinter.vcproj
+END
+rmpyc.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/rmpyc.py
+END
+select.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/select.vcproj
+END
+bdist_wininst.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/bdist_wininst.vcproj
+END
+unicodedata.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/unicodedata.vcproj
+END
+python.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/python.vcproj
+END
+pgupdate.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/pgupdate.vsprops
+END
+build_ssl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/73593/python/branches/py3k/PC/VS8.0/build_ssl.bat
+END
+sqlite3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/sqlite3.vcproj
+END
+_multiprocessing.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/_multiprocessing.vcproj
+END
+make_buildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86168/python/branches/py3k/PC/VS8.0/make_buildinfo.c
+END
+_socket.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/_socket.vcproj
+END
+rt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/84875/python/branches/py3k/PC/VS8.0/rt.bat
+END
+release.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64209/python/branches/py3k/PC/VS8.0/release.vsprops
+END
+kill_python.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/kill_python.vcproj
+END
+bz2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86168/python/branches/py3k/PC/VS8.0/bz2.vcproj
+END
+debug.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/64209/python/branches/py3k/PC/VS8.0/debug.vsprops
+END
+_ssl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84993/python/branches/py3k/PC/VS8.0/_ssl.vcproj
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/build.bat
+END
+winsound.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/winsound.vcproj
+END
+pginstrument.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/pginstrument.vsprops
+END
+pyd_d.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84762/python/branches/py3k/PC/VS8.0/pyd_d.vsprops
+END
+pythonw.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/64259/python/branches/py3k/PC/VS8.0/pythonw.vcproj
+END
+_hashlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84993/python/branches/py3k/PC/VS8.0/_hashlib.vcproj
+END
+build_env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59667/python/branches/py3k/PC/VS8.0/build_env.bat
+END
+kill_python.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/73593/python/branches/py3k/PC/VS8.0/kill_python.c
+END

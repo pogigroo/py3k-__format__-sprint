@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/86501/python/branches/py3k/Objects
+END
+complexobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85803/python/branches/py3k/Objects/complexobject.c
+END
+codeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85664/python/branches/py3k/Objects/codeobject.c
+END
+abstract.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84714/python/branches/py3k/Objects/abstract.c
+END
+object.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85803/python/branches/py3k/Objects/object.c
+END
+cellobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Objects/cellobject.c
+END
+methodobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85664/python/branches/py3k/Objects/methodobject.c
+END
+typeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85803/python/branches/py3k/Objects/typeobject.c
+END
+bytes_methods.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84074/python/branches/py3k/Objects/bytes_methods.c
+END
+dictobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86501/python/branches/py3k/Objects/dictobject.c
+END
+weakrefobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86353/python/branches/py3k/Objects/weakrefobject.c
+END
+unicodeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86344/python/branches/py3k/Objects/unicodeobject.c
+END
+listsort.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/74613/python/branches/py3k/Objects/listsort.txt
+END
+tupleobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85803/python/branches/py3k/Objects/tupleobject.c
+END
+boolobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Objects/boolobject.c
+END
+rangeobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84791/python/branches/py3k/Objects/rangeobject.c
+END
+descrobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85664/python/branches/py3k/Objects/descrobject.c
+END
+unicodectype.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84752/python/branches/py3k/Objects/unicodectype.c
+END
+memoryobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/86174/python/branches/py3k/Objects/memoryobject.c
+END
+genobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Objects/genobject.c
+END
+listobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85682/python/branches/py3k/Objects/listobject.c
+END
+unicodetype_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85371/python/branches/py3k/Objects/unicodetype_db.h
+END
+fileobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83973/python/branches/py3k/Objects/fileobject.c
+END
+moduleobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85392/python/branches/py3k/Objects/moduleobject.c
+END
+bytesobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86305/python/branches/py3k/Objects/bytesobject.c
+END
+frameobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/82290/python/branches/py3k/Objects/frameobject.c
+END
+exceptions.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85896/python/branches/py3k/Objects/exceptions.c
+END
+setobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85808/python/branches/py3k/Objects/setobject.c
+END
+funcobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Objects/funcobject.c
+END
+lnotab_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/78807/python/branches/py3k/Objects/lnotab_notes.txt
+END
+longobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85803/python/branches/py3k/Objects/longobject.c
+END
+sliceobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85661/python/branches/py3k/Objects/sliceobject.c
+END
+obmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Objects/obmalloc.c
+END
+bytearrayobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86305/python/branches/py3k/Objects/bytearrayobject.c
+END
+dictnotes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Objects/dictnotes.txt
+END
+iterobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83776/python/branches/py3k/Objects/iterobject.c
+END
+enumobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/82298/python/branches/py3k/Objects/enumobject.c
+END
+floatobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85664/python/branches/py3k/Objects/floatobject.c
+END
+capsule.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/83949/python/branches/py3k/Objects/capsule.c
+END
+classobject.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85664/python/branches/py3k/Objects/classobject.c
+END
+structseq.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/82663/python/branches/py3k/Objects/structseq.c
+END

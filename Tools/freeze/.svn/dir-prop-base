@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 53
+M_*.c
+*.o
+*.py[co]
+Makefile
+config.c
+frozen.c
+hello
+
+
+END

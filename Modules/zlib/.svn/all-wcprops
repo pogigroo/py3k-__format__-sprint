@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/84333/python/branches/py3k/Modules/zlib
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/configure
+END
+inffixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/zlib/inffixed.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/Makefile.in
+END
+deflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/deflate.c
+END
+gzlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/gzlib.c
+END
+zutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/zutil.c
+END
+gzio.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Modules/zlib/gzio.c
+END
+deflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/deflate.h
+END
+gzread.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/gzread.c
+END
+crc32.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/crc32.c
+END
+zutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/zutil.h
+END
+crc32.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Modules/zlib/crc32.h
+END
+trees.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/trees.c
+END
+algorithm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Modules/zlib/algorithm.txt
+END
+zconf.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/zconf.h
+END
+zlib.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/zlib.pc.in
+END
+minigzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/minigzip.c
+END
+INDEX
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/INDEX
+END
+trees.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/trees.h
+END
+inffast.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inffast.c
+END
+gzwrite.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/gzwrite.c
+END
+compress.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/compress.c
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/example.c
+END
+zlib.map
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/zlib.map
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/Makefile
+END
+make_vms.com
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/make_vms.com
+END
+inffast.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inffast.h
+END
+zlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/zlib.h
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/ChangeLog
+END
+gzclose.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/gzclose.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/README
+END
+inftrees.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inftrees.c
+END
+zlib.3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/zlib.3
+END
+inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inflate.c
+END
+uncompr.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/uncompr.c
+END
+inftrees.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inftrees.h
+END
+FAQ
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/FAQ
+END
+inflate.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/inflate.h
+END
+gzguts.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/gzguts.h
+END
+zconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84332/python/branches/py3k/Modules/zlib/zconf.h.in
+END
+zconf.in.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/zlib/zconf.in.h
+END
+zconf.h.cmakein
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/84333/python/branches/py3k/Modules/zlib/zconf.h.cmakein
+END
+adler32.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/adler32.c
+END
+infback.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83296/python/branches/py3k/Modules/zlib/infback.c
+END

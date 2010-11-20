@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85547/python/branches/py3k/Lib/xml/dom
+END
+expatbuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/82761/python/branches/py3k/Lib/xml/dom/expatbuilder.py
+END
+NodeFilter.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Lib/xml/dom/NodeFilter.py
+END
+minidom.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85547/python/branches/py3k/Lib/xml/dom/minidom.py
+END
+pulldom.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/58495/python/branches/py3k/Lib/xml/dom/pulldom.py
+END
+domreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/74831/python/branches/py3k/Lib/xml/dom/domreg.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/xml/dom/__init__.py
+END
+minicompat.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/59183/python/branches/py3k/Lib/xml/dom/minicompat.py
+END
+xmlbuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/64385/python/branches/py3k/Lib/xml/dom/xmlbuilder.py
+END

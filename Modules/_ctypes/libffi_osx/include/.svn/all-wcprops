@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84535/python/branches/py3k/Modules/_ctypes/libffi_osx/include
+END
+fficonfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/include/fficonfig.h
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/include/ffitarget.h
+END
+ppc-ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/include/ppc-ffitarget.h
+END
+ffi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/include/ffi_common.h
+END
+x86-ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/include/x86-ffitarget.h
+END
+ffi.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/84535/python/branches/py3k/Modules/_ctypes/libffi_osx/include/ffi.h
+END

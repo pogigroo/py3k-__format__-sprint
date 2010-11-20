@@ -1,0 +1,12 @@
+K 9
+svn:ignor
+V 12
+*.pyc
+*.pyo
+
+K 10
+svn:ignore
+V 12
+__pycache__
+
+END

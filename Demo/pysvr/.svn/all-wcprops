@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/81032/python/branches/py3k/Demo/pysvr
+END
+pysvr.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Demo/pysvr/pysvr.c
+END
+pysvr.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/78850/python/branches/py3k/Demo/pysvr/pysvr.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pysvr/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/pysvr/README
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86537/python/branches/py3k/Doc/howto
+END
+advocacy.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/61408/python/branches/py3k/Doc/howto/advocacy.rst
+END
+doanddont.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86071/python/branches/py3k/Doc/howto/doanddont.rst
+END
+regex.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/73128/python/branches/py3k/Doc/howto/regex.rst
+END
+sockets.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84945/python/branches/py3k/Doc/howto/sockets.rst
+END
+urllib2.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/76889/python/branches/py3k/Doc/howto/urllib2.rst
+END
+descriptor.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/howto/descriptor.rst
+END
+functional.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/82301/python/branches/py3k/Doc/howto/functional.rst
+END
+curses.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/70282/python/branches/py3k/Doc/howto/curses.rst
+END
+cporting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85573/python/branches/py3k/Doc/howto/cporting.rst
+END
+sorting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86187/python/branches/py3k/Doc/howto/sorting.rst
+END
+unicode.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86537/python/branches/py3k/Doc/howto/unicode.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84389/python/branches/py3k/Doc/howto/index.rst
+END
+webservers.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/86488/python/branches/py3k/Doc/howto/webservers.rst
+END

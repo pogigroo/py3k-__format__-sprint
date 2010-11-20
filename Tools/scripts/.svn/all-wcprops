@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85770/python/branches/py3k/Tools/scripts
+END
+fixnotice.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/fixnotice.py
+END
+fixdiv.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/fixdiv.py
+END
+copytime.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/copytime.py
+END
+patchcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/85767/python/branches/py3k/Tools/scripts/patchcheck.py
+END
+pathfix.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85720/python/branches/py3k/Tools/scripts/pathfix.py
+END
+fixcid.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/fixcid.py
+END
+svneol.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83886/python/branches/py3k/Tools/scripts/svneol.py
+END
+byteyears.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/byteyears.py
+END
+diff.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Tools/scripts/diff.py
+END
+find_recursionlimit.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/find_recursionlimit.py
+END
+pydocgui.pyw
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Tools/scripts/pydocgui.pyw
+END
+mkreal.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/mkreal.py
+END
+linktree.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/linktree.py
+END
+cleanfuture.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/cleanfuture.py
+END
+parseentities.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/parseentities.py
+END
+make_ctype.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/58392/python/branches/py3k/Tools/scripts/make_ctype.py
+END
+untabify.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85767/python/branches/py3k/Tools/scripts/untabify.py
+END
+eptags.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/eptags.py
+END
+lll.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/lll.py
+END
+ftpmirror.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/ftpmirror.py
+END
+dutree.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/dutree.py
+END
+fixps.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/fixps.py
+END
+checkpyc.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83887/python/branches/py3k/Tools/scripts/checkpyc.py
+END
+byext.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83886/python/branches/py3k/Tools/scripts/byext.py
+END
+combinerefs.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/combinerefs.py
+END
+objgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/objgraph.py
+END
+treesync.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/treesync.py
+END
+mailerdaemon.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/79256/python/branches/py3k/Tools/scripts/mailerdaemon.py
+END
+fixheader.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/fixheader.py
+END
+db2pickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/db2pickle.py
+END
+pickle2db.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/pickle2db.py
+END
+2to3
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/83878/python/branches/py3k/Tools/scripts/2to3
+END
+findnocoding.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/findnocoding.py
+END
+pindent.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/pindent.py
+END
+which.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/which.py
+END
+suff.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/83886/python/branches/py3k/Tools/scripts/suff.py
+END
+win_add2path.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83612/python/branches/py3k/Tools/scripts/win_add2path.py
+END
+dutree.doc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Tools/scripts/dutree.doc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83609/python/branches/py3k/Tools/scripts/README
+END
+reindent.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85695/python/branches/py3k/Tools/scripts/reindent.py
+END
+idle3
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/71936/python/branches/py3k/Tools/scripts/idle3
+END
+pysource.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/pysource.py
+END
+md5sum.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/md5sum.py
+END
+pydoc3
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/71936/python/branches/py3k/Tools/scripts/pydoc3
+END
+nm2def.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/nm2def.py
+END
+pdeps.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/pdeps.py
+END
+redemo.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/76156/python/branches/py3k/Tools/scripts/redemo.py
+END
+google.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/google.py
+END
+ifdef.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/ifdef.py
+END
+analyze_dxp.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/78807/python/branches/py3k/Tools/scripts/analyze_dxp.py
+END
+ptags.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/ptags.py
+END
+reindent-rst.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/85767/python/branches/py3k/Tools/scripts/reindent-rst.py
+END
+rgrep.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83886/python/branches/py3k/Tools/scripts/rgrep.py
+END
+texi2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/texi2html.py
+END
+h2py.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85770/python/branches/py3k/Tools/scripts/h2py.py
+END
+finddiv.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/finddiv.py
+END
+gprof2html.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/gprof2html.py
+END
+findlinksto.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/findlinksto.py
+END
+serve.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83673/python/branches/py3k/Tools/scripts/serve.py
+END
+lfcr.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/lfcr.py
+END
+crlf.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/crlf.py
+END
+ndiff.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Tools/scripts/ndiff.py
+END

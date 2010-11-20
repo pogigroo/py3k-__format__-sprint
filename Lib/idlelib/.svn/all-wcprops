@@ -1,0 +1,443 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86446/python/branches/py3k/Lib/idlelib
+END
+AutoCompleteWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/AutoCompleteWindow.py
+END
+ToolTip.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/ToolTip.py
+END
+UndoDelegator.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/UndoDelegator.py
+END
+Bindings.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/69532/python/branches/py3k/Lib/idlelib/Bindings.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/__init__.py
+END
+AutoComplete.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/69847/python/branches/py3k/Lib/idlelib/AutoComplete.py
+END
+configHandler.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/70707/python/branches/py3k/Lib/idlelib/configHandler.py
+END
+HyperParser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/HyperParser.py
+END
+ColorDelegator.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/ColorDelegator.py
+END
+Delegator.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/57312/python/branches/py3k/Lib/idlelib/Delegator.py
+END
+ObjectBrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/ObjectBrowser.py
+END
+testcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/testcode.py
+END
+configSectionNameDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/configSectionNameDialog.py
+END
+ZoomHeight.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/ZoomHeight.py
+END
+PyShell.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83103/python/branches/py3k/Lib/idlelib/PyShell.py
+END
+ParenMatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/ParenMatch.py
+END
+config-keys.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/config-keys.def
+END
+Debugger.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/Debugger.py
+END
+CREDITS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/71952/python/branches/py3k/Lib/idlelib/CREDITS.txt
+END
+configDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/74055/python/branches/py3k/Lib/idlelib/configDialog.py
+END
+StackViewer.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/StackViewer.py
+END
+HISTORY.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/HISTORY.txt
+END
+SearchEngine.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/SearchEngine.py
+END
+ReplaceDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/ReplaceDialog.py
+END
+ScriptBinding.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/68730/python/branches/py3k/Lib/idlelib/ScriptBinding.py
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/ChangeLog
+END
+tabbedpages.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/tabbedpages.py
+END
+keybindingDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/71998/python/branches/py3k/Lib/idlelib/keybindingDialog.py
+END
+configHelpSourceEdit.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/configHelpSourceEdit.py
+END
+WidgetRedirector.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/WidgetRedirector.py
+END
+GrepDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/GrepDialog.py
+END
+FormatParagraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/59465/python/branches/py3k/Lib/idlelib/FormatParagraph.py
+END
+EditorWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/74450/python/branches/py3k/Lib/idlelib/EditorWindow.py
+END
+help.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/68155/python/branches/py3k/Lib/idlelib/help.txt
+END
+config-highlight.def
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/config-highlight.def
+END
+PyParse.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59097/python/branches/py3k/Lib/idlelib/PyParse.py
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/57851/python/branches/py3k/Lib/idlelib/README.txt
+END
+rpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/74745/python/branches/py3k/Lib/idlelib/rpc.py
+END
+OutputWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/72372/python/branches/py3k/Lib/idlelib/OutputWindow.py
+END
+aboutDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/aboutDialog.py
+END
+idle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/idle.bat
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/TODO.txt
+END
+config-main.def
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/config-main.def
+END
+IdleHistory.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/IdleHistory.py
+END
+PathBrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/PathBrowser.py
+END
+IOBinding.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/68732/python/branches/py3k/Lib/idlelib/IOBinding.py
+END
+WindowList.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/67436/python/branches/py3k/Lib/idlelib/WindowList.py
+END
+ScrolledList.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/ScrolledList.py
+END
+ClassBrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/ClassBrowser.py
+END
+FileList.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/FileList.py
+END
+CallTips.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/59189/python/branches/py3k/Lib/idlelib/CallTips.py
+END
+idle.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/72373/python/branches/py3k/Lib/idlelib/idle.py
+END
+CodeContext.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/CodeContext.py
+END
+textView.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/82057/python/branches/py3k/Lib/idlelib/textView.py
+END
+SearchDialogBase.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/SearchDialogBase.py
+END
+CallTipWindow.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/CallTipWindow.py
+END
+SearchDialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/SearchDialog.py
+END
+RemoteObjectBrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/57298/python/branches/py3k/Lib/idlelib/RemoteObjectBrowser.py
+END
+idlever.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/86446/python/branches/py3k/Lib/idlelib/idlever.py
+END
+RemoteDebugger.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/61003/python/branches/py3k/Lib/idlelib/RemoteDebugger.py
+END
+TreeWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/TreeWidget.py
+END
+NEWS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83321/python/branches/py3k/Lib/idlelib/NEWS.txt
+END
+run.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/74450/python/branches/py3k/Lib/idlelib/run.py
+END
+idle.pyw
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/idle.pyw
+END
+config-extensions.def
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/72999/python/branches/py3k/Lib/idlelib/config-extensions.def
+END
+AutoExpand.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/AutoExpand.py
+END
+Percolator.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/Percolator.py
+END
+dynOptionMenuWidget.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/dynOptionMenuWidget.py
+END
+extend.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Lib/idlelib/extend.txt
+END
+RstripExtension.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/72999/python/branches/py3k/Lib/idlelib/RstripExtension.py
+END
+MultiStatusBar.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63418/python/branches/py3k/Lib/idlelib/MultiStatusBar.py
+END
+MultiCall.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/69532/python/branches/py3k/Lib/idlelib/MultiCall.py
+END
+macosxSupport.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/77032/python/branches/py3k/Lib/idlelib/macosxSupport.py
+END

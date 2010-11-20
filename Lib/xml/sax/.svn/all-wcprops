@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86062/python/branches/py3k/Lib/xml/sax
+END
+saxutils.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85858/python/branches/py3k/Lib/xml/sax/saxutils.py
+END
+handler.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Lib/xml/sax/handler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/xml/sax/__init__.py
+END
+_exceptions.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Lib/xml/sax/_exceptions.py
+END
+xmlreader.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/66203/python/branches/py3k/Lib/xml/sax/xmlreader.py
+END
+expatreader.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86062/python/branches/py3k/Lib/xml/sax/expatreader.py
+END

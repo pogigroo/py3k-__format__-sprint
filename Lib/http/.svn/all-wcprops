@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/86450/python/branches/py3k/Lib/http
+END
+cookies.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83398/python/branches/py3k/Lib/http/cookies.py
+END
+client.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86450/python/branches/py3k/Lib/http/client.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/64258/python/branches/py3k/Lib/http/__init__.py
+END
+cookiejar.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/83373/python/branches/py3k/Lib/http/cookiejar.py
+END
+server.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86195/python/branches/py3k/Lib/http/server.py
+END

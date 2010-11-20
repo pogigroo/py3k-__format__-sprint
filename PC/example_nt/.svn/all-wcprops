@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81032/python/branches/py3k/PC/example_nt
+END
+example.sln
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/73999/python/branches/py3k/PC/example_nt/example.sln
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/62242/python/branches/py3k/PC/example_nt/setup.py
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/62242/python/branches/py3k/PC/example_nt/readme.txt
+END
+example.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/PC/example_nt/example.c
+END
+example.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/56849/python/branches/py3k/PC/example_nt/example.vcproj
+END

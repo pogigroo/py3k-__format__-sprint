@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/66446/python/branches/py3k/Demo/threads
+END
+squasher.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Demo/threads/squasher.py
+END
+telnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/63631/python/branches/py3k/Demo/threads/telnet.py
+END
+sync.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/63631/python/branches/py3k/Demo/threads/sync.py
+END
+find.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/63631/python/branches/py3k/Demo/threads/find.py
+END
+fcmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Demo/threads/fcmp.py
+END
+Generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/66446/python/branches/py3k/Demo/threads/Generator.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Demo/threads/README
+END
+Coroutine.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/66446/python/branches/py3k/Demo/threads/Coroutine.py
+END

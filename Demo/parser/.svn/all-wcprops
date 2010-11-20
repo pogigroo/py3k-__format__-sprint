@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/82557/python/branches/py3k/Demo/parser
+END
+simple.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/simple.py
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/FILES
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/example.py
+END
+test_parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/82557/python/branches/py3k/Demo/parser/test_parser.py
+END
+docstring.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/docstring.py
+END
+test_unparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/82393/python/branches/py3k/Demo/parser/test_unparse.py
+END
+unparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/82393/python/branches/py3k/Demo/parser/unparse.py
+END
+source.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/source.py
+END
+texipre.dat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/texipre.dat
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Demo/parser/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85229/python/branches/py3k/Lib/tkinter/test
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/test/support.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/69051/python/branches/py3k/Lib/tkinter/test/__init__.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/69051/python/branches/py3k/Lib/tkinter/test/README
+END
+runtktests.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/69379/python/branches/py3k/Lib/tkinter/test/runtktests.py
+END

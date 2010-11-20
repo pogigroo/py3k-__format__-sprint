@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/80140/python/branches/py3k/Lib/plat-os2emx
+END
+SOCKET.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-os2emx/SOCKET.py
+END
+grp.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/62069/python/branches/py3k/Lib/plat-os2emx/grp.py
+END
+regen
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/78645/python/branches/py3k/Lib/plat-os2emx/regen
+END
+pwd.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/62069/python/branches/py3k/Lib/plat-os2emx/pwd.py
+END
+_emx_link.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/57305/python/branches/py3k/Lib/plat-os2emx/_emx_link.py
+END
+IN.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-os2emx/IN.py
+END

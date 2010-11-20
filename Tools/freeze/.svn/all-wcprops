@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85771/python/branches/py3k/Tools/freeze
+END
+extensions_win32.ini
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/63610/python/branches/py3k/Tools/freeze/extensions_win32.ini
+END
+flag.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/58953/python/branches/py3k/Tools/freeze/flag.py
+END
+winmakemakefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/85771/python/branches/py3k/Tools/freeze/winmakemakefile.py
+END
+makemakefile.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/makemakefile.py
+END
+parsesetup.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/parsesetup.py
+END
+bkfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/bkfile.py
+END
+checkextensions.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/63378/python/branches/py3k/Tools/freeze/checkextensions.py
+END
+makefreeze.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/makefreeze.py
+END
+win32.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/win32.html
+END
+checkextensions_win32.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/checkextensions_win32.py
+END
+freeze.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83606/python/branches/py3k/Tools/freeze/freeze.py
+END
+hello.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/hello.py
+END
+makeconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/85769/python/branches/py3k/Tools/freeze/makeconfig.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Tools/freeze/README
+END

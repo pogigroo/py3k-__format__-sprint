@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85229/python/branches/py3k/Lib/tkinter
+END
+messagebox.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/messagebox.py
+END
+filedialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/filedialog.py
+END
+dialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/dialog.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/__init__.py
+END
+colorchooser.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/colorchooser.py
+END
+ttk.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/74450/python/branches/py3k/Lib/tkinter/ttk.py
+END
+tix.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/tix.py
+END
+dnd.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/dnd.py
+END
+font.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84865/python/branches/py3k/Lib/tkinter/font.py
+END
+commondialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/commondialog.py
+END
+simpledialog.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/simpledialog.py
+END
+scrolledtext.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/scrolledtext.py
+END
+constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/81010/python/branches/py3k/Lib/tkinter/constants.py
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83802/python/branches/py3k/Lib/tkinter/__main__.py
+END
+_fix.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81703/python/branches/py3k/Lib/tkinter/_fix.py
+END

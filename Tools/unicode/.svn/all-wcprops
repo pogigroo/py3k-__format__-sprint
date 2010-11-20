@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85371/python/branches/py3k/Tools/unicode
+END
+listcodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Tools/unicode/listcodecs.py
+END
+makeunicodedata.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/85371/python/branches/py3k/Tools/unicode/makeunicodedata.py
+END
+gencjkcodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63378/python/branches/py3k/Tools/unicode/gencjkcodecs.py
+END
+genwincodec.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/78807/python/branches/py3k/Tools/unicode/genwincodec.py
+END
+mkstringprep.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63378/python/branches/py3k/Tools/unicode/mkstringprep.py
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Tools/unicode/Makefile
+END
+genwincodecs.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/74003/python/branches/py3k/Tools/unicode/genwincodecs.bat
+END
+comparecodecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78850/python/branches/py3k/Tools/unicode/comparecodecs.py
+END
+gencodec.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/79094/python/branches/py3k/Tools/unicode/gencodec.py
+END

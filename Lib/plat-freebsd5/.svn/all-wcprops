@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/80140/python/branches/py3k/Lib/plat-freebsd5
+END
+regen
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78645/python/branches/py3k/Lib/plat-freebsd5/regen
+END
+IN.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-freebsd5/IN.py
+END

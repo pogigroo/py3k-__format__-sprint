@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/84363/python/branches/py3k/Lib/sqlite3
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84363/python/branches/py3k/Lib/sqlite3/__init__.py
+END
+dbapi2.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84363/python/branches/py3k/Lib/sqlite3/dbapi2.py
+END
+dump.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/64258/python/branches/py3k/Lib/sqlite3/dump.py
+END

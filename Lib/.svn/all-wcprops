@@ -1,0 +1,917 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projects/!svn/ver/86565/python/branches/py3k/Lib
+END
+fractions.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86448/python/branches/py3k/Lib/fractions.py
+END
+rlcompleter.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/65171/python/branches/py3k/Lib/rlcompleter.py
+END
+genericpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/78955/python/branches/py3k/Lib/genericpath.py
+END
+os2emxpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82214/python/branches/py3k/Lib/os2emxpath.py
+END
+reprlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86217/python/branches/py3k/Lib/reprlib.py
+END
+wave.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85970/python/branches/py3k/Lib/wave.py
+END
+nturl2path.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/72351/python/branches/py3k/Lib/nturl2path.py
+END
+site.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85386/python/branches/py3k/Lib/site.py
+END
+symbol.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/78850/python/branches/py3k/Lib/symbol.py
+END
+__future__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/70983/python/branches/py3k/Lib/__future__.py
+END
+copyreg.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/64258/python/branches/py3k/Lib/copyreg.py
+END
+asynchat.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/64770/python/branches/py3k/Lib/asynchat.py
+END
+stat.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/61670/python/branches/py3k/Lib/stat.py
+END
+mimetypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85775/python/branches/py3k/Lib/mimetypes.py
+END
+token.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86410/python/branches/py3k/Lib/token.py
+END
+pipes.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/81365/python/branches/py3k/Lib/pipes.py
+END
+os.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86302/python/branches/py3k/Lib/os.py
+END
+configparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86413/python/branches/py3k/Lib/configparser.py
+END
+sndhdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/82856/python/branches/py3k/Lib/sndhdr.py
+END
+smtpd.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85220/python/branches/py3k/Lib/smtpd.py
+END
+_abcoll.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84301/python/branches/py3k/Lib/_abcoll.py
+END
+optparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/72024/python/branches/py3k/Lib/optparse.py
+END
+py_compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86346/python/branches/py3k/Lib/py_compile.py
+END
+threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86510/python/branches/py3k/Lib/threading.py
+END
+uuid.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86192/python/branches/py3k/Lib/uuid.py
+END
+getpass.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/76017/python/branches/py3k/Lib/getpass.py
+END
+tabnanny.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86346/python/branches/py3k/Lib/tabnanny.py
+END
+smtplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86327/python/branches/py3k/Lib/smtplib.py
+END
+imaplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86485/python/branches/py3k/Lib/imaplib.py
+END
+textwrap.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/75231/python/branches/py3k/Lib/textwrap.py
+END
+quopri.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/78850/python/branches/py3k/Lib/quopri.py
+END
+posixpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85689/python/branches/py3k/Lib/posixpath.py
+END
+symtable.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/73629/python/branches/py3k/Lib/symtable.py
+END
+glob.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/71261/python/branches/py3k/Lib/glob.py
+END
+shelve.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/78145/python/branches/py3k/Lib/shelve.py
+END
+tokenize.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86410/python/branches/py3k/Lib/tokenize.py
+END
+warnings.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85824/python/branches/py3k/Lib/warnings.py
+END
+sunau.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86067/python/branches/py3k/Lib/sunau.py
+END
+ntpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85689/python/branches/py3k/Lib/ntpath.py
+END
+_weakrefset.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/77365/python/branches/py3k/Lib/_weakrefset.py
+END
+formatter.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/66348/python/branches/py3k/Lib/formatter.py
+END
+mailcap.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/80369/python/branches/py3k/Lib/mailcap.py
+END
+_strptime.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/82887/python/branches/py3k/Lib/_strptime.py
+END
+re.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/84510/python/branches/py3k/Lib/re.py
+END
+calendar.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85728/python/branches/py3k/Lib/calendar.py
+END
+bisect.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/70846/python/branches/py3k/Lib/bisect.py
+END
+gzip.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86555/python/branches/py3k/Lib/gzip.py
+END
+wsgiref.egg-info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Lib/wsgiref.egg-info
+END
+copy.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/84497/python/branches/py3k/Lib/copy.py
+END
+netrc.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/58662/python/branches/py3k/Lib/netrc.py
+END
+pty.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/66469/python/branches/py3k/Lib/pty.py
+END
+macpath.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84784/python/branches/py3k/Lib/macpath.py
+END
+modulefinder.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85963/python/branches/py3k/Lib/modulefinder.py
+END
+random.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84634/python/branches/py3k/Lib/random.py
+END
+ftplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/86061/python/branches/py3k/Lib/ftplib.py
+END
+fnmatch.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/83979/python/branches/py3k/Lib/fnmatch.py
+END
+_dummy_thread.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86217/python/branches/py3k/Lib/_dummy_thread.py
+END
+shlex.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85861/python/branches/py3k/Lib/shlex.py
+END
+asyncore.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85220/python/branches/py3k/Lib/asyncore.py
+END
+struct.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81947/python/branches/py3k/Lib/struct.py
+END
+base64.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/86414/python/branches/py3k/Lib/base64.py
+END
+socket.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85920/python/branches/py3k/Lib/socket.py
+END
+pickletools.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/83212/python/branches/py3k/Lib/pickletools.py
+END
+datetime.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85485/python/branches/py3k/Lib/datetime.py
+END
+stringprep.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Lib/stringprep.py
+END
+heapq.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/82558/python/branches/py3k/Lib/heapq.py
+END
+decimal.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86517/python/branches/py3k/Lib/decimal.py
+END
+difflib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/80006/python/branches/py3k/Lib/difflib.py
+END
+getopt.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84363/python/branches/py3k/Lib/getopt.py
+END
+inspect.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86148/python/branches/py3k/Lib/inspect.py
+END
+string.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85456/python/branches/py3k/Lib/string.py
+END
+shutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/80840/python/branches/py3k/Lib/shutil.py
+END
+_compat_pickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/73236/python/branches/py3k/Lib/_compat_pickle.py
+END
+imghdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/65714/python/branches/py3k/Lib/imghdr.py
+END
+numbers.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/69547/python/branches/py3k/Lib/numbers.py
+END
+runpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85398/python/branches/py3k/Lib/runpy.py
+END
+collections.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84852/python/branches/py3k/Lib/collections.py
+END
+traceback.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/76573/python/branches/py3k/Lib/traceback.py
+END
+turtle.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85930/python/branches/py3k/Lib/turtle.py
+END
+dummy_threading.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/63631/python/branches/py3k/Lib/dummy_threading.py
+END
+compileall.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81005/python/branches/py3k/Lib/compileall.py
+END
+webbrowser.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81613/python/branches/py3k/Lib/webbrowser.py
+END
+weakref.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/77365/python/branches/py3k/Lib/weakref.py
+END
+abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/84124/python/branches/py3k/Lib/abc.py
+END
+sched.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/72934/python/branches/py3k/Lib/sched.py
+END
+ast.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85314/python/branches/py3k/Lib/ast.py
+END
+pyclbr.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/62716/python/branches/py3k/Lib/pyclbr.py
+END
+csv.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85856/python/branches/py3k/Lib/csv.py
+END
+__phello__.foo.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/__phello__.foo.py
+END
+cgi.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85531/python/branches/py3k/Lib/cgi.py
+END
+pdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85458/python/branches/py3k/Lib/pdb.py
+END
+tempfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86351/python/branches/py3k/Lib/tempfile.py
+END
+nntplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86366/python/branches/py3k/Lib/nntplib.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/72176/python/branches/py3k/Lib/io.py
+END
+chunk.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/57692/python/branches/py3k/Lib/chunk.py
+END
+opcode.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84685/python/branches/py3k/Lib/opcode.py
+END
+pstats.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85789/python/branches/py3k/Lib/pstats.py
+END
+pydoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86504/python/branches/py3k/Lib/pydoc.py
+END
+socketserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/80487/python/branches/py3k/Lib/socketserver.py
+END
+_pyio.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86220/python/branches/py3k/Lib/_pyio.py
+END
+macurl2path.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/74469/python/branches/py3k/Lib/macurl2path.py
+END
+gettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85223/python/branches/py3k/Lib/gettext.py
+END
+sre_constants.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/65860/python/branches/py3k/Lib/sre_constants.py
+END
+trace.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86346/python/branches/py3k/Lib/trace.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/83524/python/branches/py3k/Lib/profile.py
+END
+aifc.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/72435/python/branches/py3k/Lib/aifc.py
+END
+cProfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/83524/python/branches/py3k/Lib/cProfile.py
+END
+cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/84641/python/branches/py3k/Lib/cmd.py
+END
+types.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/62242/python/branches/py3k/Lib/types.py
+END
+sysconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86223/python/branches/py3k/Lib/sysconfig.py
+END
+code.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/76515/python/branches/py3k/Lib/code.py
+END
+contextlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82394/python/branches/py3k/Lib/contextlib.py
+END
+telnetlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85846/python/branches/py3k/Lib/telnetlib.py
+END
+platform.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/84467/python/branches/py3k/Lib/platform.py
+END
+tarfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86102/python/branches/py3k/Lib/tarfile.py
+END
+bdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/83284/python/branches/py3k/Lib/bdb.py
+END
+_markupbase.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84545/python/branches/py3k/Lib/_markupbase.py
+END
+mailbox.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85979/python/branches/py3k/Lib/mailbox.py
+END
+fileinput.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/83359/python/branches/py3k/Lib/fileinput.py
+END
+ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85793/python/branches/py3k/Lib/ssl.py
+END
+zipfile.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86048/python/branches/py3k/Lib/zipfile.py
+END
+argparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86111/python/branches/py3k/Lib/argparse.py
+END
+doctest.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85503/python/branches/py3k/Lib/doctest.py
+END
+codeop.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/75472/python/branches/py3k/Lib/codeop.py
+END
+hashlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84554/python/branches/py3k/Lib/hashlib.py
+END
+linecache.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86346/python/branches/py3k/Lib/linecache.py
+END
+pprint.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84648/python/branches/py3k/Lib/pprint.py
+END
+colorsys.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/69118/python/branches/py3k/Lib/colorsys.py
+END
+_threading_local.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84607/python/branches/py3k/Lib/_threading_local.py
+END
+filecmp.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/73191/python/branches/py3k/Lib/filecmp.py
+END
+tty.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/56849/python/branches/py3k/Lib/tty.py
+END
+plistlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/80280/python/branches/py3k/Lib/plistlib.py
+END
+queue.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86049/python/branches/py3k/Lib/queue.py
+END
+xdrlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/57692/python/branches/py3k/Lib/xdrlib.py
+END
+cgitb.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/71495/python/branches/py3k/Lib/cgitb.py
+END
+subprocess.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/84582/python/branches/py3k/Lib/subprocess.py
+END
+uu.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86037/python/branches/py3k/Lib/uu.py
+END
+timeit.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/83396/python/branches/py3k/Lib/timeit.py
+END
+locale.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/80521/python/branches/py3k/Lib/locale.py
+END
+codecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81474/python/branches/py3k/Lib/codecs.py
+END
+antigravity.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/73178/python/branches/py3k/Lib/antigravity.py
+END
+sre_compile.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84403/python/branches/py3k/Lib/sre_compile.py
+END
+pickle.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84653/python/branches/py3k/Lib/pickle.py
+END
+this.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/56849/python/branches/py3k/Lib/this.py
+END
+hmac.py
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/84228/python/branches/py3k/Lib/hmac.py
+END
+functools.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/84843/python/branches/py3k/Lib/functools.py
+END
+binhex.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/74289/python/branches/py3k/Lib/binhex.py
+END
+pkgutil.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85943/python/branches/py3k/Lib/pkgutil.py
+END
+dis.py
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/84672/python/branches/py3k/Lib/dis.py
+END
+sre_parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/78729/python/branches/py3k/Lib/sre_parse.py
+END
+keyword.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84467/python/branches/py3k/Lib/keyword.py
+END
+poplib.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84144/python/branches/py3k/Lib/poplib.py
+END

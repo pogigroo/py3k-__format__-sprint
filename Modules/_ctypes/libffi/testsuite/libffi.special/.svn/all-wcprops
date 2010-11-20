@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/testsuite/libffi.special
+END
+unwindtest_ffi_call.cc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/libffi.special/unwindtest_ffi_call.cc
+END
+unwindtest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/libffi.special/unwindtest.cc
+END
+special.exp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/libffi.special/special.exp
+END
+ffitestcxx.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/testsuite/libffi.special/ffitestcxx.h
+END

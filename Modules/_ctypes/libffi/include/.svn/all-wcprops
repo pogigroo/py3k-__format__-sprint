@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/include
+END
+ffi.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/include/ffi.h.in
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/include/Makefile.in
+END
+ffi_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/include/ffi_common.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/include/Makefile.am
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 72
+*.pyc
+*.msi
+msisupport.dll
+msisupport.exp
+msisupport.obj
+msisupport.lib
+
+END

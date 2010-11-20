@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/79256/python/branches/py3k/Demo/sockets
+END
+ftp.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/79256/python/branches/py3k/Demo/sockets/ftp.py
+END
+telnet.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/telnet.py
+END
+radio.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/79256/python/branches/py3k/Demo/sockets/radio.py
+END
+broadcast.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/79256/python/branches/py3k/Demo/sockets/broadcast.py
+END
+rpython.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/rpython.py
+END
+unicast.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Demo/sockets/unicast.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/72238/python/branches/py3k/Demo/sockets/README
+END
+rpythond.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/rpythond.py
+END
+mcast.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/mcast.py
+END
+throughput.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/throughput.py
+END
+echosvr.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/echosvr.py
+END
+unixserver.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Demo/sockets/unixserver.py
+END
+finger.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/finger.py
+END
+unixclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/67168/python/branches/py3k/Demo/sockets/unixclient.py
+END
+gopher.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/gopher.py
+END
+udpecho.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Demo/sockets/udpecho.py
+END

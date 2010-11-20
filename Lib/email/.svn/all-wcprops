@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/85948/python/branches/py3k/Lib/email
+END
+header.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85811/python/branches/py3k/Lib/email/header.py
+END
+charset.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81660/python/branches/py3k/Lib/email/charset.py
+END
+base64mime.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83182/python/branches/py3k/Lib/email/base64mime.py
+END
+parser.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85947/python/branches/py3k/Lib/email/parser.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/57691/python/branches/py3k/Lib/email/errors.py
+END
+iterators.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/58495/python/branches/py3k/Lib/email/iterators.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85322/python/branches/py3k/Lib/email/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/77389/python/branches/py3k/Lib/email/utils.py
+END
+feedparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85322/python/branches/py3k/Lib/email/feedparser.py
+END
+encoders.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81685/python/branches/py3k/Lib/email/encoders.py
+END
+_parseaddr.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85179/python/branches/py3k/Lib/email/_parseaddr.py
+END
+message.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85322/python/branches/py3k/Lib/email/message.py
+END
+generator.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85811/python/branches/py3k/Lib/email/generator.py
+END
+quoprimime.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85142/python/branches/py3k/Lib/email/quoprimime.py
+END

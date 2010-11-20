@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/62069/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool
+END
+Required_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/56849/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/Required_Suite.py
+END
+Standard_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/62069/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/Standard_Suite.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/56849/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/__init__.py
+END
+Help_Indexing_Tool_Suite.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projects/!svn/ver/57300/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/Help_Indexing_Tool_Suite.py
+END
+odds_and_ends.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/57300/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/odds_and_ends.py
+END
+Miscellaneous_Standards.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/57300/python/branches/py3k/Mac/Tools/Doc/HelpIndexingTool/Miscellaneous_Standards.py
+END

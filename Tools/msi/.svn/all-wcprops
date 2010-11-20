@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86430/python/branches/py3k/Tools/msi
+END
+msi.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86275/python/branches/py3k/Tools/msi/msi.py
+END
+sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/65108/python/branches/py3k/Tools/msi/sequence.py
+END
+uuids.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86430/python/branches/py3k/Tools/msi/uuids.py
+END
+msilib.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84509/python/branches/py3k/Tools/msi/msilib.py
+END
+msisupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Tools/msi/msisupport.c
+END
+uisample.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/65108/python/branches/py3k/Tools/msi/uisample.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/65108/python/branches/py3k/Tools/msi/schema.py
+END
+crtlicense.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/67860/python/branches/py3k/Tools/msi/crtlicense.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Tools/msi/README.txt
+END
+msisupport.mak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/63334/python/branches/py3k/Tools/msi/msisupport.mak
+END

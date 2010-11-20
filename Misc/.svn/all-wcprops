@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projects/!svn/ver/86565/python/branches/py3k/Misc
+END
+indent.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86564/python/branches/py3k/Misc/indent.pro
+END
+gdbinit
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86134/python/branches/py3k/Misc/gdbinit
+END
+maintainers.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86435/python/branches/py3k/Misc/maintainers.rst
+END
+ACKS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86383/python/branches/py3k/Misc/ACKS
+END
+pymemcompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84566/python/branches/py3k/Misc/pymemcompat.h
+END
+Porting
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/79259/python/branches/py3k/Misc/Porting
+END
+setuid-prog.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Misc/setuid-prog.c
+END
+README.Emacs
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85927/python/branches/py3k/Misc/README.Emacs
+END
+developers.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85867/python/branches/py3k/Misc/developers.txt
+END
+README.OpenBSD
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Misc/README.OpenBSD
+END
+python.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85697/python/branches/py3k/Misc/python.pc.in
+END
+vgrindefs
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/56849/python/branches/py3k/Misc/vgrindefs
+END
+README.klocwork
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Misc/README.klocwork
+END
+python-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85697/python/branches/py3k/Misc/python-config.in
+END
+python.man
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85436/python/branches/py3k/Misc/python.man
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/84032/python/branches/py3k/Misc/README
+END
+README.coverity
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Misc/README.coverity
+END
+SpecialBuilds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/78959/python/branches/py3k/Misc/SpecialBuilds.txt
+END
+HISTORY
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/78959/python/branches/py3k/Misc/HISTORY
+END
+README.valgrind
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Misc/README.valgrind
+END
+AIX-NOTES
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/69847/python/branches/py3k/Misc/AIX-NOTES
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/78882/python/branches/py3k/Misc/build.sh
+END
+PURIFY.README
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/63662/python/branches/py3k/Misc/PURIFY.README
+END
+RFD
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/56849/python/branches/py3k/Misc/RFD
+END
+valgrind-python.supp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/73208/python/branches/py3k/Misc/valgrind-python.supp
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86565/python/branches/py3k/Misc/NEWS
+END
+cheatsheet
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/84397/python/branches/py3k/Misc/cheatsheet
+END
+python-wing3.wpr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85418/python/branches/py3k/Misc/python-wing3.wpr
+END
+python-wing4.wpr
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85418/python/branches/py3k/Misc/python-wing4.wpr
+END

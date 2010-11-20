@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/80140/python/branches/py3k/Lib/plat-sunos5
+END
+regen
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-sunos5/regen
+END
+CDIO.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-sunos5/CDIO.py
+END
+STROPTS.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-sunos5/STROPTS.py
+END
+TYPES.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-sunos5/TYPES.py
+END
+DLFCN.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Lib/plat-sunos5/DLFCN.py
+END
+IN.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/78687/python/branches/py3k/Lib/plat-sunos5/IN.py
+END

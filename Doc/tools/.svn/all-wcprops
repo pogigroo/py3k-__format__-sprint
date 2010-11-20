@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86445/python/branches/py3k/Doc/tools
+END
+roman.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/57463/python/branches/py3k/Doc/tools/roman.py
+END
+rstlint.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/78861/python/branches/py3k/Doc/tools/rstlint.py
+END
+sphinx-build.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83660/python/branches/py3k/Doc/tools/sphinx-build.py
+END

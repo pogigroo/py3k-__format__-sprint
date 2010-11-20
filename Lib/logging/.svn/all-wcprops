@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86467/python/branches/py3k/Lib/logging
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86467/python/branches/py3k/Lib/logging/__init__.py
+END
+handlers.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84969/python/branches/py3k/Lib/logging/handlers.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86402/python/branches/py3k/Lib/logging/config.py
+END

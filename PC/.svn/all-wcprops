@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projects/!svn/ver/86300/python/branches/py3k/PC
+END
+empty.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/56849/python/branches/py3k/PC/empty.c
+END
+make_versioninfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/PC/make_versioninfo.c
+END
+testpy.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/57758/python/branches/py3k/PC/testpy.py
+END
+dl_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/81032/python/branches/py3k/PC/dl_nt.c
+END
+icons.mak
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/56849/python/branches/py3k/PC/icons.mak
+END
+WinMain.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/62945/python/branches/py3k/PC/WinMain.c
+END
+frozen_dllmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/PC/frozen_dllmain.c
+END
+python_nt.rc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/83320/python/branches/py3k/PC/python_nt.rc
+END
+python_exe.rc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/56849/python/branches/py3k/PC/python_exe.rc
+END
+dllbase_nt.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/66330/python/branches/py3k/PC/dllbase_nt.txt
+END
+config.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85456/python/branches/py3k/PC/config.c
+END
+winsound.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/86300/python/branches/py3k/PC/winsound.c
+END
+python.mk
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/56849/python/branches/py3k/PC/python.mk
+END
+import_nt.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/81032/python/branches/py3k/PC/import_nt.c
+END
+errmap.mak
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/56849/python/branches/py3k/PC/errmap.mak
+END
+getpathp.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85028/python/branches/py3k/PC/getpathp.c
+END
+generrmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/81032/python/branches/py3k/PC/generrmap.c
+END
+py.ico
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/56849/python/branches/py3k/PC/py.ico
+END
+pycon.ico
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/56849/python/branches/py3k/PC/pycon.ico
+END
+pyc.ico
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/56849/python/branches/py3k/PC/pyc.ico
+END
+pyconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84317/python/branches/py3k/PC/pyconfig.h
+END
+msvcrtmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/84506/python/branches/py3k/PC/msvcrtmodule.c
+END
+_subprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/84154/python/branches/py3k/PC/_subprocess.c
+END
+_msi.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/84485/python/branches/py3k/PC/_msi.c
+END
+w9xpopen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/61894/python/branches/py3k/PC/w9xpopen.c
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/60699/python/branches/py3k/PC/readme.txt
+END
+winreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85808/python/branches/py3k/PC/winreg.c
+END
+errmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/81032/python/branches/py3k/PC/errmap.h
+END
+icons.rc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/56849/python/branches/py3k/PC/icons.rc
+END

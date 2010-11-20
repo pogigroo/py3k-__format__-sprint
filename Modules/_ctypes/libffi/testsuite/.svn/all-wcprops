@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/testsuite
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/Makefile.am
+END

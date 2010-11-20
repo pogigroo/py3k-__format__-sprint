@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 47
+sphinx
+jinja2
+jinja
+pygments
+docutils
+*.py[co]
+
+END

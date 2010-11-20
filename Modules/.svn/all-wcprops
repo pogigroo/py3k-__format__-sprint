@@ -1,0 +1,611 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/86498/python/branches/py3k/Modules
+END
+grpmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81194/python/branches/py3k/Modules/grpmodule.c
+END
+mathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85120/python/branches/py3k/Modules/mathmodule.c
+END
+_ssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86498/python/branches/py3k/Modules/_ssl.c
+END
+_datetimemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85664/python/branches/py3k/Modules/_datetimemodule.c
+END
+unicodename_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85371/python/branches/py3k/Modules/unicodename_db.h
+END
+bz2module.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84980/python/branches/py3k/Modules/bz2module.c
+END
+tkappinit.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Modules/tkappinit.c
+END
+_pickle.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86355/python/branches/py3k/Modules/_pickle.c
+END
+rotatingtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/rotatingtree.c
+END
+_json.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86169/python/branches/py3k/Modules/_json.c
+END
+rotatingtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Modules/rotatingtree.h
+END
+makesetup
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82746/python/branches/py3k/Modules/makesetup
+END
+_gdbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_gdbmmodule.c
+END
+_tkinter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81194/python/branches/py3k/Modules/_tkinter.c
+END
+_curses_panel.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_curses_panel.c
+END
+fpectlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/fpectlmodule.c
+END
+sre_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/sre_constants.h
+END
+getpath.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86399/python/branches/py3k/Modules/getpath.c
+END
+socketmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/86211/python/branches/py3k/Modules/socketmodule.c
+END
+sre.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/65860/python/branches/py3k/Modules/sre.h
+END
+nismodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84199/python/branches/py3k/Modules/nismodule.c
+END
+mmapmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86159/python/branches/py3k/Modules/mmapmodule.c
+END
+_gestalt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_gestalt.c
+END
+_heapqmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84516/python/branches/py3k/Modules/_heapqmodule.c
+END
+socketmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84347/python/branches/py3k/Modules/socketmodule.h
+END
+_localemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85298/python/branches/py3k/Modules/_localemodule.c
+END
+_lsprof.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_lsprof.c
+END
+xxmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/82290/python/branches/py3k/Modules/xxmodule.c
+END
+makexp_aix
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Modules/makexp_aix
+END
+_dbmmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_dbmmodule.c
+END
+sha512module.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/sha512module.c
+END
+hashlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/79112/python/branches/py3k/Modules/hashlib.h
+END
+unicodedata.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84485/python/branches/py3k/Modules/unicodedata.c
+END
+Setup.dist
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84058/python/branches/py3k/Modules/Setup.dist
+END
+termios.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Modules/termios.c
+END
+readline.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86153/python/branches/py3k/Modules/readline.c
+END
+arraymodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86354/python/branches/py3k/Modules/arraymodule.c
+END
+ld_so_aix.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84680/python/branches/py3k/Modules/ld_so_aix.in
+END
+_randommodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84299/python/branches/py3k/Modules/_randommodule.c
+END
+selectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85554/python/branches/py3k/Modules/selectmodule.c
+END
+syslogmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/syslogmodule.c
+END
+ld_so_beos
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Modules/ld_so_beos
+END
+_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/82607/python/branches/py3k/Modules/_math.c
+END
+ar_beos
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Modules/ar_beos
+END
+unicodedata_db.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85371/python/branches/py3k/Modules/unicodedata_db.h
+END
+operator.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86065/python/branches/py3k/Modules/operator.c
+END
+getnameinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Modules/getnameinfo.c
+END
+_time.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/83802/python/branches/py3k/Modules/_time.c
+END
+_math.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/79107/python/branches/py3k/Modules/_math.h
+END
+zipimport.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85705/python/branches/py3k/Modules/zipimport.c
+END
+_time.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/83802/python/branches/py3k/Modules/_time.h
+END
+timemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85298/python/branches/py3k/Modules/timemodule.c
+END
+_codecsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81862/python/branches/py3k/Modules/_codecsmodule.c
+END
+_scproxy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85062/python/branches/py3k/Modules/_scproxy.c
+END
+zlibmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81100/python/branches/py3k/Modules/zlibmodule.c
+END
+config.c.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85456/python/branches/py3k/Modules/config.c.in
+END
+_bisectmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84387/python/branches/py3k/Modules/_bisectmodule.c
+END
+fpetestmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/Modules/fpetestmodule.c
+END
+python.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85765/python/branches/py3k/Modules/python.c
+END
+binascii.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86357/python/branches/py3k/Modules/binascii.c
+END
+signalmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/86214/python/branches/py3k/Modules/signalmodule.c
+END
+_struct.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/83239/python/branches/py3k/Modules/_struct.c
+END
+_weakref.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/64107/python/branches/py3k/Modules/_weakref.c
+END
+tkinter.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/71457/python/branches/py3k/Modules/tkinter.h
+END
+resource.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86493/python/branches/py3k/Modules/resource.c
+END
+Setup.config.in
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/63631/python/branches/py3k/Modules/Setup.config.in
+END
+_sre.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84379/python/branches/py3k/Modules/_sre.c
+END
+pyexpat.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85536/python/branches/py3k/Modules/pyexpat.c
+END
+errnomodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84966/python/branches/py3k/Modules/errnomodule.c
+END
+addrinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Modules/addrinfo.h
+END
+gcmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86179/python/branches/py3k/Modules/gcmodule.c
+END
+audioop.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82527/python/branches/py3k/Modules/audioop.c
+END
+pwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84106/python/branches/py3k/Modules/pwdmodule.c
+END
+testcapi_long.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/Modules/testcapi_long.h
+END
+cmathmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/82818/python/branches/py3k/Modules/cmathmodule.c
+END
+parsermodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/82555/python/branches/py3k/Modules/parsermodule.c
+END
+sha1module.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83092/python/branches/py3k/Modules/sha1module.c
+END
+atexitmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/67054/python/branches/py3k/Modules/atexitmodule.c
+END
+cryptmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Modules/cryptmodule.c
+END
+_elementtree.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85920/python/branches/py3k/Modules/_elementtree.c
+END
+posixmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85834/python/branches/py3k/Modules/posixmodule.c
+END
+_cursesmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83307/python/branches/py3k/Modules/_cursesmodule.c
+END
+_posixsubprocess.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/80361/python/branches/py3k/Modules/_posixsubprocess.c
+END
+getbuildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/getbuildinfo.c
+END
+xxsubtype.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Modules/xxsubtype.c
+END
+fcntlmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84589/python/branches/py3k/Modules/fcntlmodule.c
+END
+_threadmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84344/python/branches/py3k/Modules/_threadmodule.c
+END
+sha256module.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/sha256module.c
+END
+_testcapimodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86353/python/branches/py3k/Modules/_testcapimodule.c
+END
+_functoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/84098/python/branches/py3k/Modules/_functoolsmodule.c
+END
+_collectionsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/85683/python/branches/py3k/Modules/_collectionsmodule.c
+END
+spwdmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81194/python/branches/py3k/Modules/spwdmodule.c
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86341/python/branches/py3k/Modules/main.c
+END
+ossaudiodev.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85828/python/branches/py3k/Modules/ossaudiodev.c
+END
+getaddrinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Modules/getaddrinfo.c
+END
+_hashopenssl.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84554/python/branches/py3k/Modules/_hashopenssl.c
+END
+symtablemodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/81032/python/branches/py3k/Modules/symtablemodule.c
+END
+itertoolsmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/81891/python/branches/py3k/Modules/itertoolsmodule.c
+END
+gc_weakref.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Modules/gc_weakref.txt
+END
+_csv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86356/python/branches/py3k/Modules/_csv.c
+END
+md5module.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Modules/md5module.c
+END

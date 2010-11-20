@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_ctypes/darwin
+END
+dlfcn_simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_ctypes/darwin/dlfcn_simple.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/darwin/LICENSE
+END
+README.ctypes
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/darwin/README.ctypes
+END
+dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/darwin/dlfcn.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/darwin/README
+END

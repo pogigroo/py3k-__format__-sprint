@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84994/python/branches/py3k/Lib/test/tracedmodules
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84892/python/branches/py3k/Lib/test/tracedmodules/__init__.py
+END
+testmod.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/84994/python/branches/py3k/Lib/test/tracedmodules/testmod.py
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/80106/python/branches/py3k/Modules/_ctypes/libffi/src/sparc
+END
+v9.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/src/sparc/v9.S
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/src/sparc/ffitarget.h
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/src/sparc/ffi.c
+END
+v8.S
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/80106/python/branches/py3k/Modules/_ctypes/libffi/src/sparc/v8.S
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/84535/python/branches/py3k/Modules/_ctypes/libffi_osx
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi_osx/LICENSE
+END
+README.pyobjc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi_osx/README.pyobjc
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/ffi.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/64258/python/branches/py3k/Modules/_ctypes/libffi_osx/types.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi_osx/README
+END

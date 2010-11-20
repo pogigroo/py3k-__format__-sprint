@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/src/moxie
+END
+eabi.S
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/src/moxie/eabi.S
+END
+ffitarget.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/src/moxie/ffitarget.h
+END
+ffi.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/src/moxie/ffi.c
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/83555/python/branches/py3k/Lib/curses
+END
+ascii.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Lib/curses/ascii.py
+END
+textpad.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/64999/python/branches/py3k/Lib/curses/textpad.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/61083/python/branches/py3k/Lib/curses/__init__.py
+END
+panel.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Lib/curses/panel.py
+END
+wrapper.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/83555/python/branches/py3k/Lib/curses/wrapper.py
+END
+has_key.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/curses/has_key.py
+END

@@ -1,0 +1,425 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/86545/python/branches/py3k/Python
+END
+codecs.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/84655/python/branches/py3k/Python/codecs.c
+END
+thread_foobar.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_foobar.h
+END
+frozenmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/frozenmain.c
+END
+thread_solaris.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_solaris.h
+END
+getcompiler.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Python/getcompiler.c
+END
+errors.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85896/python/branches/py3k/Python/errors.c
+END
+pystrcmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Python/pystrcmp.c
+END
+mystrtoul.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Python/mystrtoul.c
+END
+asdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81032/python/branches/py3k/Python/asdl.c
+END
+ceval.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85664/python/branches/py3k/Python/ceval.c
+END
+getargs.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86501/python/branches/py3k/Python/getargs.c
+END
+thread_lwp.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_lwp.h
+END
+dynload_hpux.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Python/dynload_hpux.c
+END
+pyarena.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/81032/python/branches/py3k/Python/pyarena.c
+END
+fileutils.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86343/python/branches/py3k/Python/fileutils.c
+END
+thread_cthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_cthread.h
+END
+makeopcodetargets.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/81032/python/branches/py3k/Python/makeopcodetargets.py
+END
+graminit.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82838/python/branches/py3k/Python/graminit.c
+END
+traceback.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85569/python/branches/py3k/Python/traceback.c
+END
+sigcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Python/sigcheck.c
+END
+strdup.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Python/strdup.c
+END
+thread_pthread.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85352/python/branches/py3k/Python/thread_pthread.h
+END
+ast.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85570/python/branches/py3k/Python/ast.c
+END
+pystate.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/84914/python/branches/py3k/Python/pystate.c
+END
+pyctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/79107/python/branches/py3k/Python/pyctype.c
+END
+peephole.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/84256/python/branches/py3k/Python/peephole.c
+END
+thread_wince.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_wince.h
+END
+pymath.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Python/pymath.c
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85772/python/branches/py3k/Python/getopt.c
+END
+pythonrun.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86395/python/branches/py3k/Python/pythonrun.c
+END
+pytime.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/83802/python/branches/py3k/Python/pytime.c
+END
+opcode_targets.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84685/python/branches/py3k/Python/opcode_targets.h
+END
+mysnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/mysnprintf.c
+END
+dynload_dl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/64107/python/branches/py3k/Python/dynload_dl.c
+END
+formatter_unicode.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/75496/python/branches/py3k/Python/formatter_unicode.c
+END
+import.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86353/python/branches/py3k/Python/import.c
+END
+dup2.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/85236/python/branches/py3k/Python/dup2.c
+END
+structmember.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Python/structmember.c
+END
+getcwd.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Python/getcwd.c
+END
+thread_sgi.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_sgi.h
+END
+symtable.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85757/python/branches/py3k/Python/symtable.c
+END
+pyfpe.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/56849/python/branches/py3k/Python/pyfpe.c
+END
+getversion.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83356/python/branches/py3k/Python/getversion.c
+END
+marshal.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/81032/python/branches/py3k/Python/marshal.c
+END
+dtoa.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81134/python/branches/py3k/Python/dtoa.c
+END
+pystrtod.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Python/pystrtod.c
+END
+compile.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/85653/python/branches/py3k/Python/compile.c
+END
+importdl.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85588/python/branches/py3k/Python/importdl.c
+END
+dynload_aix.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Python/dynload_aix.c
+END
+thread_os2.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_os2.h
+END
+importdl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Python/importdl.h
+END
+dynamic_annotations.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/80726/python/branches/py3k/Python/dynamic_annotations.c
+END
+frozen.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Python/frozen.c
+END
+Python-ast.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86545/python/branches/py3k/Python/Python-ast.c
+END
+thread.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread.c
+END
+dynload_win.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Python/dynload_win.c
+END
+getcopyright.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/83320/python/branches/py3k/Python/getcopyright.c
+END
+future.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/84931/python/branches/py3k/Python/future.c
+END
+dynload_shlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84631/python/branches/py3k/Python/dynload_shlib.c
+END
+modsupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83949/python/branches/py3k/Python/modsupport.c
+END
+thread_nt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84914/python/branches/py3k/Python/thread_nt.h
+END
+dynload_os2.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Python/dynload_os2.c
+END
+bltinmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85664/python/branches/py3k/Python/bltinmodule.c
+END
+sysmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85839/python/branches/py3k/Python/sysmodule.c
+END
+getplatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/56849/python/branches/py3k/Python/getplatform.c
+END
+_warnings.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85824/python/branches/py3k/Python/_warnings.c
+END
+dynload_stub.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Python/dynload_stub.c
+END
+thread_pth.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Python/thread_pth.h
+END
+dynload_next.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81032/python/branches/py3k/Python/dynload_next.c
+END
+ceval_gil.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84774/python/branches/py3k/Python/ceval_gil.h
+END

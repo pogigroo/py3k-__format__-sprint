@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/86165/python/branches/py3k/PCbuild
+END
+idle.bat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/idle.bat
+END
+_sqlite3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/61643/python/branches/py3k/PCbuild/_sqlite3.vcproj
+END
+build_tkinter.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84337/python/branches/py3k/PCbuild/build_tkinter.py
+END
+_msi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/_msi.vcproj
+END
+pyproject.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83289/python/branches/py3k/PCbuild/pyproject.vsprops
+END
+w9xpopen.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/w9xpopen.vcproj
+END
+pyexpat.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/pyexpat.vcproj
+END
+pythoncore.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86137/python/branches/py3k/PCbuild/pythoncore.vcproj
+END
+x64.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/61137/python/branches/py3k/PCbuild/x64.vsprops
+END
+field3.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/field3.py
+END
+env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/env.bat
+END
+sqlite3.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/69491/python/branches/py3k/PCbuild/sqlite3.vsprops
+END
+make_versioninfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/64209/python/branches/py3k/PCbuild/make_versioninfo.vcproj
+END
+ssl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84993/python/branches/py3k/PCbuild/ssl.vcproj
+END
+_ctypes_test.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/_ctypes_test.vcproj
+END
+pyd.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84763/python/branches/py3k/PCbuild/pyd.vsprops
+END
+build_ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86165/python/branches/py3k/PCbuild/build_ssl.py
+END
+_ctypes.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/82138/python/branches/py3k/PCbuild/_ctypes.vcproj
+END
+build_pgo.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/build_pgo.bat
+END
+make_buildinfo.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/86137/python/branches/py3k/PCbuild/make_buildinfo.vcproj
+END
+_elementtree.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/64209/python/branches/py3k/PCbuild/_elementtree.vcproj
+END
+pcbuild.sln
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84993/python/branches/py3k/PCbuild/pcbuild.sln
+END
+_testcapi.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/_testcapi.vcproj
+END
+_tkinter.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/61643/python/branches/py3k/PCbuild/_tkinter.vcproj
+END
+rmpyc.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/rmpyc.py
+END
+select.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/select.vcproj
+END
+bdist_wininst.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/69096/python/branches/py3k/PCbuild/bdist_wininst.vcproj
+END
+unicodedata.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/unicodedata.vcproj
+END
+python.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/64209/python/branches/py3k/PCbuild/python.vcproj
+END
+pgupdate.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/pgupdate.vsprops
+END
+build_ssl.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/67519/python/branches/py3k/PCbuild/build_ssl.bat
+END
+sqlite3.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/69754/python/branches/py3k/PCbuild/sqlite3.vcproj
+END
+_multiprocessing.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/84645/python/branches/py3k/PCbuild/_multiprocessing.vcproj
+END
+make_buildinfo.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/86137/python/branches/py3k/PCbuild/make_buildinfo.c
+END
+_socket.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/_socket.vcproj
+END
+rt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/84870/python/branches/py3k/PCbuild/rt.bat
+END
+release.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/62135/python/branches/py3k/PCbuild/release.vsprops
+END
+kill_python.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/64259/python/branches/py3k/PCbuild/kill_python.vcproj
+END
+bz2.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85607/python/branches/py3k/PCbuild/bz2.vcproj
+END
+debug.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/62135/python/branches/py3k/PCbuild/debug.vsprops
+END
+_ssl.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84993/python/branches/py3k/PCbuild/_ssl.vcproj
+END
+vs9to8.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/77228/python/branches/py3k/PCbuild/vs9to8.py
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/60699/python/branches/py3k/PCbuild/build.bat
+END
+winsound.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/winsound.vcproj
+END
+pginstrument.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/pginstrument.vsprops
+END
+installer.bmp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/installer.bmp
+END
+pyd_d.vsprops
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/67122/python/branches/py3k/PCbuild/pyd_d.vsprops
+END
+pythonw.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/pythonw.vcproj
+END
+_hashlib.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84993/python/branches/py3k/PCbuild/_hashlib.vcproj
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85894/python/branches/py3k/PCbuild/readme.txt
+END
+build_env.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/59625/python/branches/py3k/PCbuild/build_env.bat
+END
+kill_python.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/73593/python/branches/py3k/PCbuild/kill_python.c
+END

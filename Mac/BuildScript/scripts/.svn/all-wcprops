@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85059/python/branches/py3k/Mac/BuildScript/scripts
+END
+postflight.framework
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/80200/python/branches/py3k/Mac/BuildScript/scripts/postflight.framework
+END
+postflight.patch-profile
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/85059/python/branches/py3k/Mac/BuildScript/scripts/postflight.patch-profile
+END
+postflight.documentation
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/56849/python/branches/py3k/Mac/BuildScript/scripts/postflight.documentation
+END

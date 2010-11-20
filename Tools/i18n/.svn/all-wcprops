@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85537/python/branches/py3k/Tools/i18n
+END
+msgfmt.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85537/python/branches/py3k/Tools/i18n/msgfmt.py
+END
+pygettext.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/78850/python/branches/py3k/Tools/i18n/pygettext.py
+END
+makelocalealias.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/79978/python/branches/py3k/Tools/i18n/makelocalealias.py
+END

@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/84743/python/branches/py3k/Modules/expat
+END
+xmltok_impl.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/74435/python/branches/py3k/Modules/expat/xmltok_impl.c
+END
+pyexpatns.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/pyexpatns.h
+END
+xmltok_impl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmltok_impl.h
+END
+amigaconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/amigaconfig.h
+END
+expat_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/expat_config.h
+END
+nametab.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/nametab.h
+END
+xmltok.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmltok.c
+END
+xmltok_ns.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmltok_ns.c
+END
+internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/internal.h
+END
+utf8tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/utf8tab.h
+END
+xmlrole.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmlrole.c
+END
+xmltok.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmltok.h
+END
+latin1tab.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/latin1tab.h
+END
+asciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/asciitab.h
+END
+expat.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/expat.h
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84743/python/branches/py3k/Modules/expat/COPYING
+END
+xmlrole.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/xmlrole.h
+END
+winconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/winconfig.h
+END
+expat_external.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/57142/python/branches/py3k/Modules/expat/expat_external.h
+END
+xmlparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/77682/python/branches/py3k/Modules/expat/xmlparse.c
+END
+macconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/macconfig.h
+END
+iasciitab.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/iasciitab.h
+END
+ascii.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Modules/expat/ascii.h
+END

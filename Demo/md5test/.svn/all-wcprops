@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/85855/python/branches/py3k/Demo/md5test
+END
+foo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/56849/python/branches/py3k/Demo/md5test/foo
+END
+md5driver.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85855/python/branches/py3k/Demo/md5test/md5driver.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/56849/python/branches/py3k/Demo/md5test/README
+END

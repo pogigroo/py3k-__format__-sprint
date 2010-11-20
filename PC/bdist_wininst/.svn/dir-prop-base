@@ -1,0 +1,12 @@
+K 10
+svn:ignore
+V 103
+temp-debug
+temp-release
+wininst-7.1.ncb
+wininst-7.1.suo
+wininst.ncb
+wininst.opt
+wininst.pdb
+wininst.plg
+END

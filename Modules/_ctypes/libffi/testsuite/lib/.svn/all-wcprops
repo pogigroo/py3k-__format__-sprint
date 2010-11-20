@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/testsuite/lib
+END
+target-libpath.exp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/lib/target-libpath.exp
+END
+wrapper.exp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/testsuite/lib/wrapper.exp
+END
+libffi-dg.exp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/testsuite/lib/libffi-dg.exp
+END

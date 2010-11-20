@@ -1,0 +1,18 @@
+K 10
+svn:ignore
+V 86
+*.WSM
+*.bsc
+*.dbg
+*.dll
+*.exe
+*.exp
+*.ilk
+*.lib
+*.ncb
+*.opt
+*.pdb
+*.plg
+*.pyd
+*-temp-*
+END

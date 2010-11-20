@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/66446/python/branches/py3k/Demo/rpc
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/56849/python/branches/py3k/Demo/rpc/test
+END
+xdr.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/66446/python/branches/py3k/Demo/rpc/xdr.py
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/rpc/MANIFEST
+END
+rnusersclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Demo/rpc/rnusersclient.py
+END
+mountclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/62069/python/branches/py3k/Demo/rpc/mountclient.py
+END
+T.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/56849/python/branches/py3k/Demo/rpc/T.py
+END
+rpc.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/66446/python/branches/py3k/Demo/rpc/rpc.py
+END
+nfsclient.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/66446/python/branches/py3k/Demo/rpc/nfsclient.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/Demo/rpc/README
+END

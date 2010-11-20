@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85643/python/branches/py3k/Doc/includes/sqlite3
+END
+ctx_manager.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/64258/python/branches/py3k/Doc/includes/sqlite3/ctx_manager.py
+END
+shared_cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/shared_cache.py
+END
+execsql_printall_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/execsql_printall_1.py
+END
+insert_more_people.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/insert_more_people.py
+END
+complete_statement.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/complete_statement.py
+END
+rowclass.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/rowclass.py
+END
+row_factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/row_factory.py
+END
+md5func.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/md5func.py
+END
+execsql_fetchonerow.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/execsql_fetchonerow.py
+END
+executemany_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/executemany_2.py
+END
+adapter_point_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/adapter_point_1.py
+END
+countcursors.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/countcursors.py
+END
+createdb.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/createdb.py
+END
+load_extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/85643/python/branches/py3k/Doc/includes/sqlite3/load_extension.py
+END
+connect_db_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/connect_db_2.py
+END
+converter_point.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/converter_point.py
+END
+execute_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/execute_2.py
+END
+executescript.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/executescript.py
+END
+parse_colnames.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/parse_colnames.py
+END
+adapter_datetime.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/adapter_datetime.py
+END
+shortcut_methods.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/shortcut_methods.py
+END
+simple_tableprinter.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/simple_tableprinter.py
+END
+executemany_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/executemany_1.py
+END
+adapter_point_2.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/adapter_point_2.py
+END
+text_factory.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/74212/python/branches/py3k/Doc/includes/sqlite3/text_factory.py
+END
+mysumaggr.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/mysumaggr.py
+END
+connect_db_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/connect_db_1.py
+END
+collation_reverse.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/69190/python/branches/py3k/Doc/includes/sqlite3/collation_reverse.py
+END
+execute_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/execute_1.py
+END
+execute_3.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/execute_3.py
+END
+pysqlite_datetime.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/59751/python/branches/py3k/Doc/includes/sqlite3/pysqlite_datetime.py
+END

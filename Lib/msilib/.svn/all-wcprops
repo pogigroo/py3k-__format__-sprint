@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/84363/python/branches/py3k/Lib/msilib
+END
+sequence.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/56849/python/branches/py3k/Lib/msilib/sequence.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84363/python/branches/py3k/Lib/msilib/__init__.py
+END
+schema.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/59227/python/branches/py3k/Lib/msilib/schema.py
+END
+text.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/56849/python/branches/py3k/Lib/msilib/text.py
+END

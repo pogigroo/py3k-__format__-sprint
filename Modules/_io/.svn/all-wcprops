@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/86487/python/branches/py3k/Modules/_io
+END
+bytesio.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84562/python/branches/py3k/Modules/_io/bytesio.c
+END
+stringio.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84438/python/branches/py3k/Modules/_io/stringio.c
+END
+_iomodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84562/python/branches/py3k/Modules/_io/_iomodule.h
+END
+iobase.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/84814/python/branches/py3k/Modules/_io/iobase.c
+END
+fileio.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86220/python/branches/py3k/Modules/_io/fileio.c
+END
+bufferedio.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/86487/python/branches/py3k/Modules/_io/bufferedio.c
+END
+_iomodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85864/python/branches/py3k/Modules/_io/_iomodule.c
+END
+textio.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86220/python/branches/py3k/Modules/_io/textio.c
+END

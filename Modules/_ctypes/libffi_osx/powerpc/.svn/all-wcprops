@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc
+END
+ppc-darwin_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin_closure.S
+END
+ppc-darwin.S
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin.S
+END
+ppc-ffi_darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc/ppc-ffi_darwin.c
+END
+ppc-darwin.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc/ppc-darwin.h
+END
+ppc64-darwin_closure.S
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/powerpc/ppc64-darwin_closure.S
+END

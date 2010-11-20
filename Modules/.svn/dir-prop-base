@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 103
+Setup
+Makefile.pre
+Setup.thread
+Setup.config
+Setup.local
+hassignal
+config.c
+Makefile
+add2lib
+ld_so_aix
+
+END

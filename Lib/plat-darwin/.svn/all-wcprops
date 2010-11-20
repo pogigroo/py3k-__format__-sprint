@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/80140/python/branches/py3k/Lib/plat-darwin
+END
+regen
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/70181/python/branches/py3k/Lib/plat-darwin/regen
+END
+IN.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/70181/python/branches/py3k/Lib/plat-darwin/IN.py
+END

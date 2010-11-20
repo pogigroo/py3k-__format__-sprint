@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83611/python/branches/py3k/Tools/framer/framer
+END
+template.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/83611/python/branches/py3k/Tools/framer/framer/template.py
+END
+bases.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/83611/python/branches/py3k/Tools/framer/framer/bases.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/Tools/framer/framer/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/56849/python/branches/py3k/Tools/framer/framer/__init__.py
+END
+structparse.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/63378/python/branches/py3k/Tools/framer/framer/structparse.py
+END
+slots.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/69224/python/branches/py3k/Tools/framer/framer/slots.py
+END
+struct.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/63378/python/branches/py3k/Tools/framer/framer/struct.py
+END
+function.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/63378/python/branches/py3k/Tools/framer/framer/function.py
+END
+member.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/56849/python/branches/py3k/Tools/framer/framer/member.py
+END

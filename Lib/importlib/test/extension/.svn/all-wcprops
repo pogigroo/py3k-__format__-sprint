@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/extension
+END
+test_path_hook.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/extension/test_path_hook.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/extension/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/extension/__init__.py
+END
+test_case_sensitivity.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/extension/test_case_sensitivity.py
+END
+test_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/extension/test_loader.py
+END
+test_finder.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/extension/test_finder.py
+END

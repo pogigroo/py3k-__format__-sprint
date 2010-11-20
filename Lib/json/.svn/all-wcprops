@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/86022/python/branches/py3k/Lib/json
+END
+scanner.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84505/python/branches/py3k/Lib/json/scanner.py
+END
+tool.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/72194/python/branches/py3k/Lib/json/tool.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85543/python/branches/py3k/Lib/json/__init__.py
+END
+encoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86022/python/branches/py3k/Lib/json/encoder.py
+END
+decoder.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85543/python/branches/py3k/Lib/json/decoder.py
+END

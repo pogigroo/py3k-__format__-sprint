@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/80140/python/branches/py3k/Lib/lib2to3/tests/data/fixers
+END
+no_fixer_cls.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/66659/python/branches/py3k/Lib/lib2to3/tests/data/fixers/no_fixer_cls.py
+END
+bad_order.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/66659/python/branches/py3k/Lib/lib2to3/tests/data/fixers/bad_order.py
+END
+parrot_example.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/66659/python/branches/py3k/Lib/lib2to3/tests/data/fixers/parrot_example.py
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85070/python/branches/py3k/Tools/buildbot
+END
+clean-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/clean-amd64.bat
+END
+external-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/64391/python/branches/py3k/Tools/buildbot/external-amd64.bat
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/build.bat
+END
+test.bat
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85070/python/branches/py3k/Tools/buildbot/test.bat
+END
+README.tcltk-AMD64
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/56849/python/branches/py3k/Tools/buildbot/README.tcltk-AMD64
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/clean.bat
+END
+external.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/external.bat
+END
+build-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/build-amd64.bat
+END
+buildmsi.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/buildmsi.bat
+END
+external-common.bat
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84922/python/branches/py3k/Tools/buildbot/external-common.bat
+END
+test-amd64.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/64273/python/branches/py3k/Tools/buildbot/test-amd64.bat
+END

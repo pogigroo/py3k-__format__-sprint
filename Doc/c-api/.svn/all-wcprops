@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86562/python/branches/py3k/Doc/c-api
+END
+memory.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/memory.rst
+END
+sequence.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/sequence.rst
+END
+gen.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/gen.rst
+END
+buffer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/buffer.rst
+END
+list.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/list.rst
+END
+file.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/file.rst
+END
+exceptions.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85336/python/branches/py3k/Doc/c-api/exceptions.rst
+END
+structures.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/structures.rst
+END
+module.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/module.rst
+END
+gcsupport.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/gcsupport.rst
+END
+bytes.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/bytes.rst
+END
+iterator.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/iterator.rst
+END
+reflection.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/reflection.rst
+END
+intro.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85606/python/branches/py3k/Doc/c-api/intro.rst
+END
+set.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/set.rst
+END
+capsule.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/capsule.rst
+END
+datetime.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/datetime.rst
+END
+long.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/long.rst
+END
+none.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/none.rst
+END
+slice.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/slice.rst
+END
+bytearray.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/bytearray.rst
+END
+concrete.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/concrete.rst
+END
+iter.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/iter.rst
+END
+init.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85731/python/branches/py3k/Doc/c-api/init.rst
+END
+abstract.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85082/python/branches/py3k/Doc/c-api/abstract.rst
+END
+memoryview.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/86063/python/branches/py3k/Doc/c-api/memoryview.rst
+END
+float.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/float.rst
+END
+object.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85664/python/branches/py3k/Doc/c-api/object.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/60130/python/branches/py3k/Doc/c-api/index.rst
+END
+complex.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/complex.rst
+END
+arg.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/arg.rst
+END
+import.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/import.rst
+END
+code.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/code.rst
+END
+utilities.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86562/python/branches/py3k/Doc/c-api/utilities.rst
+END
+typeobj.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85664/python/branches/py3k/Doc/c-api/typeobj.rst
+END
+codec.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86562/python/branches/py3k/Doc/c-api/codec.rst
+END
+descriptor.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/descriptor.rst
+END
+sys.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85772/python/branches/py3k/Doc/c-api/sys.rst
+END
+cell.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/cell.rst
+END
+method.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/method.rst
+END
+type.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/type.rst
+END
+dict.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86144/python/branches/py3k/Doc/c-api/dict.rst
+END
+refcounting.rst
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/refcounting.rst
+END
+weakref.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/weakref.rst
+END
+function.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/function.rst
+END
+allocation.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/allocation.rst
+END
+conversion.rst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/conversion.rst
+END
+veryhigh.rst
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85635/python/branches/py3k/Doc/c-api/veryhigh.rst
+END
+unicode.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85631/python/branches/py3k/Doc/c-api/unicode.rst
+END
+marshal.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/marshal.rst
+END
+number.rst
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/number.rst
+END
+tuple.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/85633/python/branches/py3k/Doc/c-api/tuple.rst
+END
+mapping.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/mapping.rst
+END
+bool.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/bool.rst
+END
+objimpl.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/69202/python/branches/py3k/Doc/c-api/objimpl.rst
+END
+objbuffer.rst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85272/python/branches/py3k/Doc/c-api/objbuffer.rst
+END

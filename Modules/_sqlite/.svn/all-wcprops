@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85692/python/branches/py3k/Modules/_sqlite
+END
+connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/connection.c
+END
+cache.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/cache.c
+END
+statement.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/statement.c
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/85660/python/branches/py3k/Modules/_sqlite/connection.h
+END
+row.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85692/python/branches/py3k/Modules/_sqlite/row.c
+END
+cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/cache.h
+END
+statement.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/statement.h
+END
+sqlitecompat.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/sqlitecompat.h
+END
+row.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/row.h
+END
+cursor.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/81323/python/branches/py3k/Modules/_sqlite/cursor.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/util.c
+END
+microprotocols.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/66446/python/branches/py3k/Modules/_sqlite/microprotocols.c
+END
+prepare_protocol.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/prepare_protocol.c
+END
+cursor.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/cursor.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/util.h
+END
+microprotocols.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/66446/python/branches/py3k/Modules/_sqlite/microprotocols.h
+END
+prepare_protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/prepare_protocol.h
+END
+module.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/module.c
+END
+module.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/84485/python/branches/py3k/Modules/_sqlite/module.h
+END

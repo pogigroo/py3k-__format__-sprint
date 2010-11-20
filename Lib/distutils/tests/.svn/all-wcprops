@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86353/python/branches/py3k/Lib/distutils/tests
+END
+test_install_lib.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_install_lib.py
+END
+test_msvc9compiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_msvc9compiler.py
+END
+test_cygwinccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_cygwinccompiler.py
+END
+test_install_data.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_install_data.py
+END
+test_build.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_build.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/__init__.py
+END
+test_install_headers.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_install_headers.py
+END
+test_dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_dist.py
+END
+test_dep_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_dep_util.py
+END
+test_bdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_bdist.py
+END
+test_versionpredicate.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_versionpredicate.py
+END
+test_dir_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_dir_util.py
+END
+test_install_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_install_scripts.py
+END
+test_archive_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_archive_util.py
+END
+test_build_ext.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86353/python/branches/py3k/Lib/distutils/tests/test_build_ext.py
+END
+test_bdist_wininst.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_bdist_wininst.py
+END
+test_unixccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_unixccompiler.py
+END
+test_clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_clean.py
+END
+test_bdist_rpm.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_bdist_rpm.py
+END
+test_register.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_register.py
+END
+test_upload.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_upload.py
+END
+test_core.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_core.py
+END
+test_config_cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_config_cmd.py
+END
+Setup.sample
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/73168/python/branches/py3k/Lib/distutils/tests/Setup.sample
+END
+test_cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_cmd.py
+END
+test_sysconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/tests/test_sysconfig.py
+END
+test_config.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_config.py
+END
+test_install.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_install.py
+END
+test_build_scripts.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_build_scripts.py
+END
+test_build_py.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_build_py.py
+END
+test_filelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_filelist.py
+END
+test_file_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_file_util.py
+END
+test_extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_extension.py
+END
+test_bdist_dumb.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_bdist_dumb.py
+END
+support.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/tests/support.py
+END
+test_bdist_msi.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_bdist_msi.py
+END
+test_check.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_check.py
+END
+test_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_util.py
+END
+test_log.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_log.py
+END
+test_text_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_text_file.py
+END
+test_version.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_version.py
+END
+test_sdist.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_sdist.py
+END
+test_build_clib.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_build_clib.py
+END
+test_spawn.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86236/python/branches/py3k/Lib/distutils/tests/test_spawn.py
+END

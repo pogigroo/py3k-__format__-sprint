@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85576/python/branches/py3k/Lib/test/encoded_modules
+END
+module_iso_8859_1.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projects/!svn/ver/85537/python/branches/py3k/Lib/test/encoded_modules/module_iso_8859_1.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/85537/python/branches/py3k/Lib/test/encoded_modules/__init__.py
+END
+module_koi8_r.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/85537/python/branches/py3k/Lib/test/encoded_modules/module_koi8_r.py
+END

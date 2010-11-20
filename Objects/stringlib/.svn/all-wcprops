@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86191/python/branches/py3k/Objects/stringlib
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/partition.h
+END
+split.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/77465/python/branches/py3k/Objects/stringlib/split.h
+END
+localeutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/71665/python/branches/py3k/Objects/stringlib/localeutil.h
+END
+string_format.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/86191/python/branches/py3k/Objects/stringlib/string_format.h
+END
+find.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/find.h
+END
+fastsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83859/python/branches/py3k/Objects/stringlib/fastsearch.h
+END
+formatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83736/python/branches/py3k/Objects/stringlib/formatter.h
+END
+ctype.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/ctype.h
+END
+transmogrify.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/transmogrify.h
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/77937/python/branches/py3k/Objects/stringlib/README.txt
+END
+eq.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/81032/python/branches/py3k/Objects/stringlib/eq.h
+END
+count.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/count.h
+END
+stringdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/stringdefs.h
+END
+unicodedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/77462/python/branches/py3k/Objects/stringlib/unicodedefs.h
+END

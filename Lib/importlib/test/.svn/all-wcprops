@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84270/python/branches/py3k/Lib/importlib/test
+END
+test_api.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/82520/python/branches/py3k/Lib/importlib/test/test_api.py
+END
+benchmark.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/83046/python/branches/py3k/Lib/importlib/test/benchmark.py
+END
+test_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/82125/python/branches/py3k/Lib/importlib/test/test_util.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/__init__.py
+END
+regrtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/82518/python/branches/py3k/Lib/importlib/test/regrtest.py
+END
+__main__.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/80141/python/branches/py3k/Lib/importlib/test/__main__.py
+END
+test_abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/82321/python/branches/py3k/Lib/importlib/test/test_abc.py
+END
+abc.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/abc.py
+END

@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 21
+__pycache__
+*.pickle
+
+K 19
+svnmerge-integrated
+V 35
+/sandbox/trunk/2to3/lib2to3:0-85508
+END

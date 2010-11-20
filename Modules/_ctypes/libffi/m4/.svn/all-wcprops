@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4/ltsugar.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4/ltversion.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4/lt~obsolete.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/m4/ltoptions.m4
+END

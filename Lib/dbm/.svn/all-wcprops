@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/83235/python/branches/py3k/Lib/dbm
+END
+gnu.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/64258/python/branches/py3k/Lib/dbm/gnu.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83235/python/branches/py3k/Lib/dbm/__init__.py
+END
+ndbm.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/64258/python/branches/py3k/Lib/dbm/ndbm.py
+END
+dumb.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81010/python/branches/py3k/Lib/dbm/dumb.py
+END

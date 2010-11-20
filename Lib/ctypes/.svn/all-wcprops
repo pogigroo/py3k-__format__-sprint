@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85174/python/branches/py3k/Lib/ctypes
+END
+_endian.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/56849/python/branches/py3k/Lib/ctypes/_endian.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/84836/python/branches/py3k/Lib/ctypes/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83195/python/branches/py3k/Lib/ctypes/__init__.py
+END
+wintypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85073/python/branches/py3k/Lib/ctypes/wintypes.py
+END

@@ -1,0 +1,116 @@
+10
+
+dir
+86565
+http://svn.python.org/projects/python/branches/py3k/Demo
+http://svn.python.org/projects
+
+
+
+2010-11-01T17:39:37.247120Z
+86095
+alexander.belopolsky
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6015fed2-1504-0410-9fe1-9d1591cc4771
+
+tkinter
+dir
+
+pysvr
+dir
+
+rpc
+dir
+
+distutils
+dir
+
+md5test
+dir
+
+scripts
+dir
+
+threads
+dir
+
+parser
+dir
+
+comparisons
+dir
+
+classes
+dir
+
+README
+file
+
+
+
+
+2010-11-20T14:30:15.000000Z
+8dc01471a0766a670c8e3cc87f5ec29f
+2010-08-02T23:18:35.183634Z
+83617
+georg.brandl
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2199
+
+xml
+dir
+
+zlib
+dir
+
+cgi
+dir
+
+tix
+dir
+
+curses
+dir
+
+sockets
+dir
+
+embed
+dir
+
+newmetaclasses
+dir
+

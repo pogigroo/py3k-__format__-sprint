@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/86446/python/branches/py3k/Lib/distutils
+END
+core.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/core.py
+END
+spawn.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/73149/python/branches/py3k/Lib/distutils/spawn.py
+END
+msvc9compiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/86438/python/branches/py3k/Lib/distutils/msvc9compiler.py
+END
+cygwinccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/86276/python/branches/py3k/Lib/distutils/cygwinccompiler.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86446/python/branches/py3k/Lib/distutils/__init__.py
+END
+dist.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/dist.py
+END
+cmd.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/cmd.py
+END
+msvccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/msvccompiler.py
+END
+sysconfig.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86248/python/branches/py3k/Lib/distutils/sysconfig.py
+END
+dep_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/dep_util.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/config.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/70019/python/branches/py3k/Lib/distutils/README
+END
+versionpredicate.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/65860/python/branches/py3k/Lib/distutils/versionpredicate.py
+END
+dir_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/86244/python/branches/py3k/Lib/distutils/dir_util.py
+END
+filelist.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/filelist.py
+END
+errors.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/errors.py
+END
+extension.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/extension.py
+END
+file_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86248/python/branches/py3k/Lib/distutils/file_util.py
+END
+ccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/ccompiler.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86248/python/branches/py3k/Lib/distutils/util.py
+END
+archive_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/archive_util.py
+END
+bcppcompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/bcppcompiler.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81359/python/branches/py3k/Lib/distutils/log.py
+END
+unixccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/unixccompiler.py
+END
+fancy_getopt.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/83053/python/branches/py3k/Lib/distutils/fancy_getopt.py
+END
+text_file.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/85805/python/branches/py3k/Lib/distutils/text_file.py
+END
+version.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/70707/python/branches/py3k/Lib/distutils/version.py
+END
+debug.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/57699/python/branches/py3k/Lib/distutils/debug.py
+END
+emxccompiler.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/86223/python/branches/py3k/Lib/distutils/emxccompiler.py
+END

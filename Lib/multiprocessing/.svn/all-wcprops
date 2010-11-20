@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86370/python/branches/py3k/Lib/multiprocessing
+END
+pool.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/86370/python/branches/py3k/Lib/multiprocessing/pool.py
+END
+synchronize.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/85888/python/branches/py3k/Lib/multiprocessing/synchronize.py
+END
+reduction.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/83722/python/branches/py3k/Lib/multiprocessing/reduction.py
+END
+heap.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/83722/python/branches/py3k/Lib/multiprocessing/heap.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/84403/python/branches/py3k/Lib/multiprocessing/managers.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/68916/python/branches/py3k/Lib/multiprocessing/util.py
+END
+process.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78655/python/branches/py3k/Lib/multiprocessing/process.py
+END
+sharedctypes.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/68709/python/branches/py3k/Lib/multiprocessing/sharedctypes.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/86077/python/branches/py3k/Lib/multiprocessing/__init__.py
+END
+connection.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/83722/python/branches/py3k/Lib/multiprocessing/connection.py
+END
+forking.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/83722/python/branches/py3k/Lib/multiprocessing/forking.py
+END
+queues.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/74745/python/branches/py3k/Lib/multiprocessing/queues.py
+END

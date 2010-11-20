@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/85681/python/branches/py3k/Modules/_ctypes
+END
+callproc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/85298/python/branches/py3k/Modules/_ctypes/callproc.c
+END
+callbacks.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/84535/python/branches/py3k/Modules/_ctypes/callbacks.c
+END
+stgdict.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_ctypes/stgdict.c
+END
+libffi.diff
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi.diff
+END
+ctypes_dlfcn.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/ctypes_dlfcn.h
+END
+malloc_closure.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/84535/python/branches/py3k/Modules/_ctypes/malloc_closure.c
+END
+_ctypes_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_ctypes/_ctypes_test.c
+END
+_ctypes.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85681/python/branches/py3k/Modules/_ctypes/_ctypes.c
+END
+cfield.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85577/python/branches/py3k/Modules/_ctypes/cfield.c
+END
+_ctypes_test.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/56849/python/branches/py3k/Modules/_ctypes/_ctypes_test.h
+END
+ctypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/83837/python/branches/py3k/Modules/_ctypes/ctypes.h
+END

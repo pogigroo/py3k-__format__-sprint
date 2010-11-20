@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/86520/python/branches/py3k/Lib/urllib
+END
+request.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86520/python/branches/py3k/Lib/urllib/request.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/79111/python/branches/py3k/Lib/urllib/error.py
+END
+parse.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86520/python/branches/py3k/Lib/urllib/parse.py
+END
+response.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/79111/python/branches/py3k/Lib/urllib/response.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/79111/python/branches/py3k/Lib/urllib/__init__.py
+END
+robotparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/83238/python/branches/py3k/Lib/urllib/robotparser.py
+END

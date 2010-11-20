@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/85948/python/branches/py3k/Lib/email/test
+END
+test_email_torture.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/78955/python/branches/py3k/Lib/email/test/test_email_torture.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/57691/python/branches/py3k/Lib/email/test/__init__.py
+END
+test_email.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projects/!svn/ver/85948/python/branches/py3k/Lib/email/test/test_email.py
+END
+test_email_codecs.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/81010/python/branches/py3k/Lib/email/test/test_email_codecs.py
+END

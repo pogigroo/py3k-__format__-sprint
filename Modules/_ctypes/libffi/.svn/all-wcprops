@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/83837/python/branches/py3k/Modules/_ctypes/libffi
+END
+ChangeLog.libgcj
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/ChangeLog.libgcj
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/configure
+END
+ChangeLog.libffi
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/ChangeLog.libffi
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/Makefile.in
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/LICENSE
+END
+msvcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/msvcc.sh
+END
+fficonfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/fficonfig.h.in
+END
+fficonfig.py.in
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/83837/python/branches/py3k/Modules/_ctypes/libffi/fficonfig.py.in
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/depcomp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/ChangeLog
+END
+libtool-version
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/libtool-version
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/compile
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/config.guess
+END
+configure.host
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/configure.host
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/README
+END
+libffi.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/libffi.pc.in
+END
+mdate-sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/mdate-sh
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/configure.ac
+END
+acinclude.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/acinclude.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/79103/python/branches/py3k/Modules/_ctypes/libffi/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/missing
+END
+texinfo.tex
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/texinfo.tex
+END
+ChangeLog.v1
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projects/!svn/ver/78978/python/branches/py3k/Modules/_ctypes/libffi/ChangeLog.v1
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/79099/python/branches/py3k/Modules/_ctypes/libffi/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi/install-sh
+END

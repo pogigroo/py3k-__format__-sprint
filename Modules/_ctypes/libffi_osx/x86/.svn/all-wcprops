@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/x86
+END
+darwin64.S
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projects/!svn/ver/61238/python/branches/py3k/Modules/_ctypes/libffi_osx/x86/darwin64.S
+END
+x86-ffi64.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/x86/x86-ffi64.c
+END
+x86-darwin.S
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/x86/x86-darwin.S
+END
+x86-ffi_darwin.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projects/!svn/ver/74974/python/branches/py3k/Modules/_ctypes/libffi_osx/x86/x86-ffi_darwin.c
+END

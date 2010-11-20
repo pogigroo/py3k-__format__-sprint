@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/78850/python/branches/py3k/Demo/comparisons
+END
+patterns
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/56849/python/branches/py3k/Demo/comparisons/patterns
+END
+regextest.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projects/!svn/ver/78850/python/branches/py3k/Demo/comparisons/regextest.py
+END
+systemtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/78850/python/branches/py3k/Demo/comparisons/systemtest.py
+END
+sortingtest.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projects/!svn/ver/78850/python/branches/py3k/Demo/comparisons/sortingtest.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Demo/comparisons/README
+END

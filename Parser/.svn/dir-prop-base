@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 72
+Makefile
+pgen
+pgen.exe
+pgen.stamp
+add2lib
+asdl.pyc
+asdl_c.pyc
+spark.pyc
+
+END

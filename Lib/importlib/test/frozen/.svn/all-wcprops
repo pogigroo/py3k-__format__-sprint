@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/80140/python/branches/py3k/Lib/importlib/test/frozen
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/frozen/__init__.py
+END
+test_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/frozen/test_loader.py
+END
+test_finder.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projects/!svn/ver/79108/python/branches/py3k/Lib/importlib/test/frozen/test_finder.py
+END

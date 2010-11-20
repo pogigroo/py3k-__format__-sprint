@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85550/python/branches/py3k/Lib/lib2to3
+END
+pytree.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/pytree.py
+END
+fixer_util.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/fixer_util.py
+END
+PatternGrammar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projects/!svn/ver/61600/python/branches/py3k/Lib/lib2to3/PatternGrammar.txt
+END
+Grammar.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/Grammar.txt
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/64258/python/branches/py3k/Lib/lib2to3/__init__.py
+END
+pygram.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/pygram.py
+END
+btm_utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/btm_utils.py
+END
+patcomp.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/patcomp.py
+END
+main.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/80936/python/branches/py3k/Lib/lib2to3/main.py
+END
+btm_matcher.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/btm_matcher.py
+END
+refactor.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/refactor.py
+END
+fixer_base.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projects/!svn/ver/85510/python/branches/py3k/Lib/lib2to3/fixer_base.py
+END

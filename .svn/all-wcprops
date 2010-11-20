@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projects/!svn/ver/86565/python/branches/py3k
+END
+.bzrignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/84705/python/branches/py3k/.bzrignore
+END
+.hgignore
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/84705/python/branches/py3k/.hgignore
+END
+runtests.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projects/!svn/ver/85078/python/branches/py3k/runtests.sh
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/86551/python/branches/py3k/configure
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projects/!svn/ver/83320/python/branches/py3k/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/85838/python/branches/py3k/.gitignore
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projects/!svn/ver/86548/python/branches/py3k/configure.in
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projects/!svn/ver/86045/python/branches/py3k/setup.py
+END
+Makefile.pre.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86275/python/branches/py3k/Makefile.pre.in
+END
+pyconfig.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/86551/python/branches/py3k/pyconfig.h.in
+END
+.hgeol
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/85777/python/branches/py3k/.hgeol
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/86446/python/branches/py3k/README
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/56849/python/branches/py3k/install-sh
+END

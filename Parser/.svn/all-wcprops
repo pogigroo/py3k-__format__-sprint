@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/86545/python/branches/py3k/Parser
+END
+acceler.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/81032/python/branches/py3k/Parser/acceler.c
+END
+pgenmain.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Parser/pgenmain.c
+END
+parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/60977/python/branches/py3k/Parser/parser.h
+END
+printgrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/81222/python/branches/py3k/Parser/printgrammar.c
+END
+grammar1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Parser/grammar1.c
+END
+intrcheck.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Parser/intrcheck.c
+END
+tokenizer.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85476/python/branches/py3k/Parser/tokenizer.c
+END
+tokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/85907/python/branches/py3k/Parser/tokenizer.h
+END
+listnode.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Parser/listnode.c
+END
+Python.asdl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/82163/python/branches/py3k/Parser/Python.asdl
+END
+tokenizer_pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/56849/python/branches/py3k/Parser/tokenizer_pgen.c
+END
+node.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81032/python/branches/py3k/Parser/node.c
+END
+grammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/81032/python/branches/py3k/Parser/grammar.c
+END
+firstsets.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/81032/python/branches/py3k/Parser/firstsets.c
+END
+spark.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/61003/python/branches/py3k/Parser/spark.py
+END
+parsetok.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/81032/python/branches/py3k/Parser/parsetok.c
+END
+myreadline.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/81032/python/branches/py3k/Parser/myreadline.c
+END
+asdl.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/81288/python/branches/py3k/Parser/asdl.py
+END
+pgen.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/81032/python/branches/py3k/Parser/pgen.c
+END
+bitset.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Parser/bitset.c
+END
+asdl_c.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projects/!svn/ver/86545/python/branches/py3k/Parser/asdl_c.py
+END
+parser.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/81032/python/branches/py3k/Parser/parser.c
+END
+metagrammar.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/81032/python/branches/py3k/Parser/metagrammar.c
+END

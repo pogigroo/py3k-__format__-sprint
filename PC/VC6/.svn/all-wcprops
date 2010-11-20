@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projects/!svn/ver/86165/python/branches/py3k/PC/VC6
+END
+pyexpat.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/pyexpat.dsp
+END
+pythoncore.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/pythoncore.dsp
+END
+tcl852.patch
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84643/python/branches/py3k/PC/VC6/tcl852.patch
+END
+rmpyc.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/PC/VC6/rmpyc.py
+END
+bz2.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/bz2.dsp
+END
+make_versioninfo.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/56849/python/branches/py3k/PC/VC6/make_versioninfo.dsp
+END
+_ssl.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/56849/python/branches/py3k/PC/VC6/_ssl.dsp
+END
+build_tkinter.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/69497/python/branches/py3k/PC/VC6/build_tkinter.py
+END
+_ctypes_test.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_ctypes_test.dsp
+END
+rt.bat
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projects/!svn/ver/63936/python/branches/py3k/PC/VC6/rt.bat
+END
+_ctypes.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_ctypes.dsp
+END
+winsound.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/winsound.dsp
+END
+_elementtree.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_elementtree.dsp
+END
+pythonw.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86116/python/branches/py3k/PC/VC6/pythonw.dsp
+END
+_testcapi.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_testcapi.dsp
+END
+_tkinter.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_tkinter.dsp
+END
+select.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/select.dsp
+END
+unicodedata.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/unicodedata.dsp
+END
+python.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/86116/python/branches/py3k/PC/VC6/python.dsp
+END
+build_ssl.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86165/python/branches/py3k/PC/VC6/build_ssl.py
+END
+_ssl.mak
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/70450/python/branches/py3k/PC/VC6/_ssl.mak
+END
+_sqlite3.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_sqlite3.dsp
+END
+_multiprocessing.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_multiprocessing.dsp
+END
+readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/85894/python/branches/py3k/PC/VC6/readme.txt
+END
+_socket.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_socket.dsp
+END
+_msi.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/_msi.dsp
+END
+pcbuild.dsw
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/66212/python/branches/py3k/PC/VC6/pcbuild.dsw
+END
+w9xpopen.dsp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/86113/python/branches/py3k/PC/VC6/w9xpopen.dsp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projects/!svn/ver/85679/python/branches/py3k/Modules/_multiprocessing
+END
+semaphore.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projects/!svn/ver/85679/python/branches/py3k/Modules/_multiprocessing/semaphore.c
+END
+connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_multiprocessing/connection.h
+END
+multiprocessing.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/85665/python/branches/py3k/Modules/_multiprocessing/multiprocessing.c
+END
+socket_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_multiprocessing/socket_connection.c
+END
+win32_functions.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_multiprocessing/win32_functions.c
+END
+multiprocessing.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/81694/python/branches/py3k/Modules/_multiprocessing/multiprocessing.h
+END
+pipe_connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projects/!svn/ver/81032/python/branches/py3k/Modules/_multiprocessing/pipe_connection.c
+END

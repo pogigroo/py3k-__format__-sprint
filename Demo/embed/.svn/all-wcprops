@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projects/!svn/ver/83404/python/branches/py3k/Demo/embed
+END
+demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/83404/python/branches/py3k/Demo/embed/demo.c
+END
+loop.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/83404/python/branches/py3k/Demo/embed/loop.c
+END
+importexc.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projects/!svn/ver/67057/python/branches/py3k/Demo/embed/importexc.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/83404/python/branches/py3k/Demo/embed/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/56849/python/branches/py3k/Demo/embed/README
+END

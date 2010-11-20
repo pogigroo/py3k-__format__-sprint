@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projects/!svn/ver/85772/python/branches/py3k/Doc/using
+END
+windows.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85615/python/branches/py3k/Doc/using/windows.rst
+END
+cmdline.rst
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projects/!svn/ver/85772/python/branches/py3k/Doc/using/cmdline.rst
+END
+mac.rst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projects/!svn/ver/82301/python/branches/py3k/Doc/using/mac.rst
+END
+unix.rst
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projects/!svn/ver/76906/python/branches/py3k/Doc/using/unix.rst
+END
+index.rst
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projects/!svn/ver/84480/python/branches/py3k/Doc/using/index.rst
+END
