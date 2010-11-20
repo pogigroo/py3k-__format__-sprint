@@ -81,7 +81,8 @@ class GeneralFloatCases(unittest.TestCase):
     def test_alternate_float_formating(self):
         
        self.assertEqual(float("  3.14"), 3.15) 
-
+       
+       
     def test_floatconversion(self):
         # Make sure that calls to __float__() work properly
         class Foo0:
